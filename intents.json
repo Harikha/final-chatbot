@@ -1,0 +1,1304 @@
+{
+    "intents": [
+      {
+          "tag": "greetings",
+          "patterns": [
+              "Hi",
+              "Hey",
+              "How are you",
+              "Is anyone there?",
+              "Hello",
+              "Good day",
+              "Hi there",
+              "hi"
+          ],
+          "responses": [
+              "Hello thanks for checking in",
+              "Hi there, how can i help you",
+              "Hi there, what can I do for you?",
+              "Hi there, how can I help?"
+          ]
+      },
+      {
+          "tag": "goodbye",
+          "patterns": [
+              "bye",
+              "good bye",
+              "see you later"
+          ],
+          "responses": [
+              "have a nice time, welcome back again",
+              "bye bye"
+          ]
+      },
+      {
+        "tag": "services",
+        "patterns": [
+            "What can you do?",
+            "How can you help me",
+            "What services do you provide?",
+            "What can you do?"
+        ],
+        "responses": [
+           "I can help you in suggesting places to you based on popularity ,age or seasons,and suggest you nearest bank services available,provides a link to book tickets"
+        ]
+    },
+      {
+          "tag": "thanks",
+          "patterns": [
+              "Thanks",
+              "okay",
+              "Thank you",
+              "thankyou",
+              "That's helpful",
+              "Awesome, thanks",
+              "Thanks for helping me",
+              "wow",
+              "great"
+          ],
+          "responses": [
+              "Happy to help!",
+              "Any time!",
+              "you're welcome",
+              "My pleasure"
+          ]
+      },
+      {
+          "tag": "noanswer",
+          "patterns": [
+              ""
+          ],
+          "responses": [
+              "Sorry, I didn't understand you",
+              "Please give me more info",
+              "Not sure I understand that"
+          ]
+      },
+      {
+          "tag": "name1",
+          "patterns": [
+              "what's your name?",
+              "what is your name",
+              "whats ur name",
+              "who are you?"
+          ],
+          "responses": [
+              "i'm a travel assistant chatbot."
+          ]
+      },
+      {
+          "tag": "name",
+          "patterns": [
+              "my name is ",
+              "I am "
+          ],
+          "responses": [
+              "Oooh great to meet you ! How may I assist you ",
+              "Oh, I'll keep that in mind"
+          ]
+      },
+      {
+          "tag": "popular places query",
+          "patterns": [
+              "Can you suggest places to visit near ",
+              "popular places nearby ",
+              "Suggest good places to visit ",
+              "nearest popular places "
+          ],
+          "function":"popularPlaces",
+          "responses": [
+              "Where are you currently located?",
+              "Where are you know",
+              "In which district are you now"
+          ]
+      },
+      {
+          "tag": "pophyderabad",
+          "patterns": [
+            "popular places to visit in hyderabad","popular places to visit in hyd","popular places to visit in bhagyanagar",
+              "hyderabad","Hyderabad","hyd","HYD","Bhagyanagar"
+          ],
+          "responses": [
+          "Golconda Fort,<br/> Charminar,<br/> Mecca Masjid,<br/> Qutb Shahi Tombs,<br/> Hussain Sagar Lake,<br/> Ramoji Film City,<br/> Salar Jung Museum,<br/> Chowmahalla Palace,<br/> Paigah Tombs,<br/> Birla Mandir,<br/> Jala Vihar,<br/> Lumbini Park,<br/> Nehru Zoo Park,<br/> Snow world,<br/> NTR Gardens,<br/> Shilparamam,<br/> Chilkur Balaji Temple,<br/> Mount Opera,<br/> Sanghi Temple,<br/> Botanical Gardens,<br/> Birla Planetarium,<br/> Laad Bazaar,<br/> Rachakonda Fort"
+            
+          ]
+      },
+      {
+          "tag": "popwarangal",
+          "patterns": [
+            "popular places to visit in warangal","popular places to visit in wrngl","popular places to visit in orugallu",
+             "warangal"," Orugallu","wgl","wrngl"
+          ],
+          "responses": [
+             "Thousand Pillar Temple,<br/> Warangal Fort,<br/> Bhadra Kali Temple,<br/> Ramappa Temple,<br/> Jain Temple, <br/> Kolanupaka Siddeswara Temple,<br/> Sri Veeranarayana Temple,<br/> Mallikarjuna Swamy Temple,<br/>Inavolu Ramappa Lake,<br/>Laknam Cheruvu ,<br/>Padmakshi Temple,<br/> Anjaneya Swamy Temple,<br/> Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park, <br/>Kush Mahal, <br/>Ekashila Lake & Children Garden"
+          ]
+      },
+    
+      {
+        "tag": "popadilabad",
+        "patterns": [
+            "popular places to visit in adilabad","popular places to visit in adb","popular places to visit in Adilabad",
+           "Adilabad","adilabad","adb"
+        ],
+        "responses": [
+            "Kawal Wildlife Sanctuary,<br/> Kuntala Waterfalls,<br/> Pochera Waterfalls,<br/> Pranahita Wildlife Sanctuary,<br/> Shivaram Wildlife Sanctuary,<br/>Kaddam Project,<br/> Gayatri WaterFalls,<br/> Gaandhari Khilla,<br/> Kanakai Waterfalls,<br/> Mitte Waterfalls,<br/>Sri Gnana Saraswathi Devasthanam,<br/> Jainath Temple,<br/> Basar Saraswathi Temple,<br/> Kadam Dam,<br/> Gudem Satyanarayana Temple,<br/> Pedda Gundam Waterfall,<br/> Sri Ram Sagar Project,<br/> Sri Komaram Bheem Project,<br/> Vyasa Maharshi,<br/> Cave Nirmal Fort"
+        ]
+    
+    },
+      {
+        "tag": "popkarimnagar ",
+        "patterns": [
+            "popular places to visit in karimnagar","popular places to visit in kareemnagar","popular places to visit in knmgr",
+           "karimnagar","karamnagaram","karremnagar","kareemnagar","kmngr"
+        ],
+        "responses": [
+           "Kondagattu Anjaneya Swamy temple ,<br/>Lower Maniar dam,<br/> Nagunur forts and temples,<br/> Venkateswara swamy temple,<br/> Elgandal fort,<br/> Raja Rajeshwara Swamy temple"
+        ]
+    },
+    {
+        "tag": "popkhammam ",
+        "patterns": [
+            "popular places to visit in khammam","popular places to visit in kammam","popular places to visit in Khammam",
+          "khammam","kammam","Khammam"
+        ],
+        "responses": [
+         "Narsimha Swami Temple,<br/> Khammam Fort,<br/> Palair Reservoir ,<br/>Kaman Bazaar,<br/> Jammalapuram Temple Gandhi,<br/> Chowk Kinnerasani Wildlife Sanctuary ,<br/>Lakaram Lake"
+        ]
+    },
+    {
+        "tag": "popmahabubnagar",
+        "patterns": [
+            "popular places to visit in Mahabubnagar","popular places to visit in mahaboobnagar","popular places to visit in mbngr",
+         "Mahabubnagar","mahaboobnagar","mehabubnagar","mbngr"
+        ],
+        "responses": [
+            "Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort ,<br/>Lalitha Someswara Swamy Temple ,<br/>Kollapur ,<br/>Alampur ,<br/>Pangal Fort ,<br/>Chandraghad Fort ,<br/>Ghanpur Fort,<br/> Pillalamarri,<br/> Wanaparthy Palace"
+        ]
+    },
+    {
+        "tag":"popnalgonda",
+        "patterns":[
+            "popular places to visit in nallagonda","popular places to visit in nallagondla","popular places to visit in nalgonda",
+            "nallagonda","nallagondla","ngl","nalgonda"
+        ],
+        "responses":[
+            "Pillalamarri temple,<br/> Ethipothala falls,<br/> Chaya Someswara temple ,<br/>Pachala Someshwara Temple"
+        ]
+    },
+    {
+        "tag":"popnizamabad",
+        "patterns":[
+            "popular places to visit in nizamabad","popular places to visit in nizambad","popular places to visit in nijamabad",
+           "nizamabad","nizambad","nzmbd","nijambad","nijamabad"
+        ],
+        "responses":[
+           " Nizamabad Fort,<br/> Kanteshwar Temple,<br/> Nizamabad-Mallaram forest ,<br/>Sarangapoor Hanuman temple,<br/> Ali Sagar lake,<br/> Nizam Sagar dam"
+        ]
+    },
+    {
+        "tag":"poppeddapally",
+        "patterns":[
+            "popular places to visit in peddapally","popular places to visit in peddepally","popular places to visit in peddapalli",
+          "peddapally","peddapalli","pedpali","peddepalli"
+        ],
+        "responses":[
+           "NTPC Ramagundam,<br/> Buddhist Stupa,<br/> Ramagir Fort ,<br/>Siva Temple ,<br/>Siva Trikuta Temple ,<br/>Sri Vasavi Andal Ranganatha Swamy Temple,<br/> Andalamma Old Temple"
+        ]
+    },
+    {
+        "tag":"popsidmedak",
+        "patterns":[
+            "popular places to visit in medak","popular places to visit in siddipetha","popular places to visit in Siddipet",
+         "siddipetha","medak","Siddipet","sidipet"
+        ],
+        "responses":[
+          "Sri Kotilingeshwara Swamy Temple,<br/> Sarabheswara Swamy Temple,<br/> Shiva Temple,<br/> Sri Venkateshwara Swamy Temple ,<br/>Jama Masjid Lal Kaman"
+        ]
+    },
+    {
+        "tag":"popsuryapet",
+        "patterns":[
+            "popular places to visit in suryapeta","popular places to visit in suryapet",
+         "suryapeta","suryapet"
+        ],
+        "responses":[
+            "Sri Undrugonda Narasimhaswamy Temple,<br/> Jan Pahad Dargah,<br/> Phanigiri,<br/> Mallacheruvu"
+        ]  
+    },
+    {
+        "tag":"ticketbooking",
+        "patterns":[
+         "How can i book ticket?",
+         "How to book a ticket",
+         "can you help me in booking a ticket",
+         "please book a ticket",
+         "ticket booking",
+         "book a ticket"
+        ],
+        "responses":[
+         "follow this link to book tickets,<a href='https://bit.ly/3N9k5PU'>click here</a>"
+        ]  
+    },
+    {
+        "tag": "kids places",
+        "patterns": [
+            "Can you suggest places to visit for kids ",
+            "places to visit for kids ",
+            "Suggest good places to visit with kids ",
+            "must visit places with kids",
+            "suggest places that kids enjoy most"
+        ],
+        "responses": [
+           "Ramoji Film City ,<br/>Salar Jung Museum,<br/> Chowmahalla Palace,<br/> Birla Mandir,<br/> Jala Vihar,<br/> Lumbini Park,<br/> Nehru Zoo Park ,<br/>Snow world,<br/> NTR Gardens ,<br/>Mount Opera ,<br/>Birla Planetarium,<br/> Pillalamarri,<br/>  Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park,<br/> Ekashila Lake & Children Garden,<br/> Ethipothala falls"
+        ]
+    },
+    {
+        "tag":"kids places hyd",
+        "patterns":[
+            "Can you suggest places to visit for kids in hyderabad",
+            "Can you suggest places to visit with kids near hyderabad",
+            "must visit places with kids in hyderabad",
+            "places to visit with kids for entertainment in hyderabad",
+            "places to visit with kids for entertainment in hyd"
+        ], 
+        "responses": [
+            "Ramoji Film City,<br/>Salar Jung Museum,<br/>Chowmahalla Palace,<br/>Birla Mandir,<br/>Jala Vihar,<br/>Lumbini Park,<br/>Nehru Zoo Park,<br/>Snow world,<br/>NTR Gardens,<br/>Mount Opera,<br/>Birla Planetarium"
+            
+        ]
+    },
+    {
+        "tag":"kids places adb",
+        "patterns":[
+            "Can you suggest places to visit for kids in adilabad",
+            "Can you suggest places to visit with kids near adb",
+            "must visit places with kids in adilabad",
+            "places to visit with kids for entertainment in adilabad",
+            "places to visit with kids for entertainment in adb"
+        ],
+        "responses":[
+            "Kuntala Waterfalls,<br/>Pochera Waterfalls,<br/>Gayatri WaterFalls,<br/>Kanakai Waterfalls,<br/>Mitte Waterfalls"
+            
+        ]
+    
+    },
+    {
+        "tag":"kids places warangal",
+        "patterns":[
+            "Can you suggest places to visit for kids in warangal",
+            "Can you suggest places to visit with kids near wrngl",
+            "must visit places with kids in warangal",
+            "places to visit with kids for entertainment in warangal",
+            "places to visit with kids for entertainment in wrngl"
+        ],
+        "responses":[
+            "Kakatiya Musical Garden,<br/>Kakatiya Zoological Park,<br/>Ekashila Lake & Children Garden"       
+        ]
+    },
+    {
+        "tag":"kids places nalgonda",
+        "patterns":[
+            "Can you suggest places to visit for kids in  nalgonda",
+            "Can you suggest places to visit with kids near nallagonda",
+            "must visit places with kids in  nalgonda",
+            "places to visit with kids for entertainment in  nalgonda",
+            "places to visit with kids for entertainment in  nallagonda"
+        ],
+        "responses":[
+            "Ethipothala falls"
+                   
+        ]
+    },
+    {
+        "tag":"kids places mahabubnagar",
+        "patterns":[
+            "Can you suggest places to visit for kids in  Mahabubnagar",
+            "Can you suggest places to visit with kids near Mahabubnagar",
+            "must visit places with kids in  Mahabubnagar",
+            "places to visit with kids for entertainment in  Mahabubnagar",
+            "places to visit with kids for entertainment in  mahaboobnagar"
+        ],
+        "responses":[
+            "Pillalamarri"      
+        ]
+    },
+    {
+        "tag":"banks near golconda",
+        "patterns":[
+            "banks near golconda",
+            "banks near golconda fort",
+            "where are the banks located near golconda fort"
+        ],
+        "responses":[
+            "Artillery Centre, <br/>Bapughat"     
+        ]
+    },{
+        "tag":"banks near charminar",
+        "patterns":[
+            "banks near charminar",
+            "where are the banks located near charminar"
+        ],
+        "responses":[
+            "Laad Bazar Road,<br/>Nayapul X road"     
+        ]
+        },{
+        "tag":"banks near Mecca Masjid",
+        "patterns":[
+            "where are the banks located near near Mecca Masjid",
+            "banks near Mecca Masjid"
+        ],
+        "responses":[
+            "Moghulpura,<br/>Ghani bazar"     
+        ]
+        },{
+        "tag":"banks near Qutb Shahi Tombs",
+        "patterns":[
+            "where are the banks located near Qutb Shahi Tombs",
+            "banks near Qutb Shahi Tombs"
+        ],
+        "responses":[
+            "Artillery Centre,<br/>Quthbullapur Village"     
+        ]
+        },{
+        "tag":"banks near Hussain Sagar Laker",
+        "patterns":[
+            "where are the banks located near Hussain Sagar Lake",
+            "banks near Hussain Sagar Laker"
+        ],
+        "responses":[
+            "Domalaguda,<br/>Himayathnagar"     
+        ]
+        },{
+        "tag":"banks near Ramoji Film City",
+        "patterns":[
+            "where are the banks located near Ramoji Film City",
+            "banks near Ramoji Film City"
+        ],
+        "responses":[
+            "Kamala Nagar, <br/>Abdullah Pur Mett"     
+        ]
+        },{
+        "tag":"banks near Salar Jung Museum",
+        "patterns":[
+            "where are the banks located near Salar Jung Museum",
+            "banks near Salar Jung Museum"
+        ],
+        "responses":[
+            "Laad Bazar Road,<br/>Siddiamber Bazar"     
+        ]
+        },{
+        "tag":"banks near Chowmahalla Palace",
+        "patterns":[
+            "where are the banks located near Chowmahalla Palace",
+            "banks near Chowmahalla Palace"
+        ],
+        "responses":[
+            "Moghalpura,<br/>Motigalli"     
+        ]
+        },{
+        "tag":"banks near Paigah Tombs",
+        "patterns":[
+            "where are the banks located near Paigah Tombs",
+            "banks near Paigah Tombs"
+        ],
+        "responses":[
+            "Edi Bazar,<br/>West Marrepally"     
+        ]
+        },{
+        "tag":"banks near Birla Mandir",
+        "patterns":[
+            "where are the banks located near Birla Mandirr",
+            "banks near Birla Mandir"
+        ],
+        "responses":[
+            "Red hills,<br/>icici bank is near Tankbund"     
+        ]
+        },{
+        "tag":"banks near Jala Vihar",
+        "patterns":[
+            "where are the banks located near Jala Vihar",
+            "banks near Jala Vihar"
+        ],
+        "responses":[
+            "Khairatabad,<br/>Sanjeevaiah Park"     
+        ]
+        },{
+        "tag":"banks near Lumbini Park",
+        "patterns":[
+            "where are the banks located near Lumbini Park",
+            "banks near Lumbini Park"
+        ],
+        "responses":[
+            "MC Tank Bund,<br/>Khairtabad"     
+        ]
+        },{
+        "tag":"banks near Nehru Zoo Park",
+        "patterns":[
+            "where are the banks located near Nehru Zoo Park",
+            "banks near Nehru Zoo Park"
+        ],
+        "responses":[
+            "Bahadurpura"   
+        ]
+        },{
+        "tag":"banks near Snow world",
+        "patterns":[
+            "where are the banks located near Snow worldr",
+            "banks near Snow world"
+        ],
+        "responses":[
+            "Domalguda,<br/>Kavadiguda"     
+        ]
+        },{
+        "tag":"banks near NTR Gardens",
+        "patterns":[
+            "where are the banks located near NTR Gardens",
+            "banks near NTR Gardens"
+        ],
+        "responses":[
+            "Domalguda,<br/>NTR Marg"     
+        ] 
+        },
+        {
+        "tag":"banks near Shilparamamr",
+        "patterns":[
+            "where are the banks located near Shilparamam",
+            "banks near Shilparamam"
+        ],
+        "responses":[
+            "Cyber Towers,<br/>Hitech city"     
+        ]
+        },{
+        "tag":"banks near Chilkur Balaji Temple",
+        "patterns":[
+            "where are the banks located near Chilkur Balaji Temple",
+            "banks near Chilkur Balaji Temple"
+        ],
+        "responses":[
+            "Nizampet Road,<br/>Moinabad"     
+        ]
+        },{
+        "tag":"banks near Mount Opera",
+        "patterns":[
+            "where are the banks located near Mount Opera",
+            "banks near Mount Opera"
+        ],
+        "responses":[
+            "Jubilee hills,<br/>Ramoji Film City"     
+        ]
+        },{
+        "tag":"banks near Sanghi Temple",
+        "patterns":[
+            "where are the banks located near Sanghi Temple",
+            "banks near Sanghi Temple"
+        ],
+        "responses":[
+            "Uppal,<br/>Omerkhan daira"     
+        ]
+        },{
+        "tag":"banks near Botanical Gardens",
+        "patterns":[
+            "where are the banks located near Botanical Gardens",
+            "banks near Botanical Gardens"
+        ],
+        "responses":[
+            "Kondapur"     
+        ]
+        },{
+        "tag":"banks near Birla Planetarium",
+        "patterns":[
+            "where are the banks located near Birla Planetarium",
+            "banks near Birla Planetarium"
+        ],
+        "responses":[
+            "Red hills,<br/>New Nallakunta"     
+        ]
+        },{
+        "tag":"banks near Laad Bazaar",
+        "patterns":[
+            "where are the banks located near Laad Bazaar",
+            "banks near Laad Bazaar"
+        ],
+        "responses":[
+            "Laad Bazar Road,<br/>Charminar"     
+        ]
+        },{
+        "tag":"banks near Sri Undrugonda Narasimhaswamy Temple",
+        "patterns":[
+            "where are the banks located near Sri Undrugonda Narasimhaswamy Temple",
+            "banks near Sri Undrugonda Narasimhaswamy Temple"
+        ],
+        "responses":[
+            "Barlapenta Bazaar"     
+        ]
+        },{
+        "tag":"banks near Jan Pahad Dargah",
+        "patterns":[
+            "where are the banks located near Jan Pahad Dargah",
+            "banks near Jan Pahad Dargah"
+        ],
+        "responses":[
+            "Janpahad,<br/>Palkaveedu Mandal"     
+        ]
+        },{
+        "tag":"banks near Phanigiri",
+        "patterns":[
+            "where are the banks located near Phanigiri",
+            "banks near Phanigiri"
+        ],
+        "responses":[
+            "Tirumalagiri,<br/>Manasa Nagar"     
+        ]
+        },{
+        "tag":"banks near Mallacheruvu",
+        "patterns":[
+            "where are the banks located near Mallacheruvu",
+            "banks near Mallacheruvur"
+        ],
+        "responses":[
+            "Revuru Road,<br/>Kodad"     
+        ]
+        },{
+        "tag":"banks near Jurala Dam",
+        "patterns":[
+            "where are the banks located near Jurala Dam",
+            "banks near Jurala Dam"
+        ],
+        "responses":[
+            "Atmakur,<br/>Gadwal"     
+        ]
+        },{
+        "tag":"banks near Koilkonda Fort or Koilsagar Dam",
+        "patterns":[
+            "where are the banks located near Koilkonda Fort",
+            "banks near Koilkonda Fort",
+            "where are the banks located near Koilsagar Dam",
+            "banks near Koilsagar Dam"
+        ],
+        "responses":[
+            "Konkanvanipally Village"     
+        ]
+        },{
+        "tag":"banks near Gadwal Fort",
+        "patterns":[
+            "where are the banks located near Gadwal Fort",
+            "banks near Gadwal Fort"
+        ],
+        "responses":[
+            "Krishnavena Chowk"     
+        ]
+        },{
+        "tag":"banks near Lalitha Someswara Swamy Temple",
+        "patterns":[
+            "where are the banks located near Lalitha Someswara Swamy Temple",
+            "banks near Lalitha Someswara Swamy Temple"
+        ],
+        "responses":[
+            "Bhimavaram,<br/>Somasila"     
+        ]
+        },{
+        "tag":"banks near Kollapur",
+        "patterns":[
+            "where are the banks located near Kollapur",
+            "banks near Kollapur"
+        ],
+        "responses":[
+            "Ambedkar Street,<br/>Wanaparthy"     
+        ]
+        },{
+        "tag":"banks near Alampur",
+        "patterns":[
+            "where are the banks located near Alampur",
+            "banks near Alampur"
+        ],
+        "responses":[
+            "Jogulamba"     
+        ]
+        },{
+        "tag":"banks near Pangal Fort",
+        "patterns":[
+            "where are the banks located near Pangal Fort",
+            "banks near Pangal Fort"
+        ],
+        "responses":[
+            "Market Road,<br/>Shankarpally"     
+        ]
+        },{
+        "tag":"banks near Chandraghad Fort",
+        "patterns":[
+            "where are the banks located near Chandraghad Fort",
+            "banks near Chandraghad Fort"
+        ],
+        "responses":[
+            "Ravinder Nagar,<br/>Jurala Dam"      
+        ]
+        },{
+        "tag":"banks near Ghanpur Fort",
+        "patterns":[
+            "where are the banks located near Ghanpur Fort",
+            "banks near Ghanpur Fort"
+        ],
+        "responses":[
+            "Ravinder Nagar,<br/>Khilla Ghanpur"        
+        ]
+        },{
+        "tag":"banks near Pillalamarri",
+        "patterns":[
+            "where are the banks located near Pillalamarri",
+            "banks near Pillalamarri"
+        ],
+        "responses":[
+            "Market Road,<br/>Kristan Pally"     
+        ]
+        },{
+        "tag":"banks near Wanaparthy Palace",
+        "patterns":[
+            "where are the banks located near Wanaparthy Palace",
+            "banks near Wanaparthy Palace"
+        ],
+        "responses":[
+            "Rajiv Chowk,<br/>Wanaparthy" 
+        ]
+        },{
+        "tag":"banks near Kawal Wildlife Sanctuary",
+        "patterns":[
+            "where are the banks located near Kawal Wildlife Sanctuary",
+            "banks near Kawal Wildlife Sanctuary"
+        ],
+        "responses":[
+            "Mancherial,<br/>Jannaram mandal"   
+        ]
+        },{
+        "tag":"banks near Kuntala Waterfalls",
+        "patterns":[
+            "where are the banks located near Kuntala Waterfalls",
+            "banks near Kuntala Waterfalls"
+        ],
+        "responses":[
+            "Neeradigonda"    
+        ]
+        },{
+        "tag":"banks near Pochera Waterfalls",
+        "patterns":[
+            "where are the banks located near Pochera Waterfalls",
+            "banks near Pochera Waterfalls"
+        ],
+        "responses":[
+            "Jogulamba"     
+        ]
+        },{
+        "tag":"banks near Alampur",
+        "patterns":[
+            "where are the banks located near Alampur",
+            "banks near Alampur"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Nirmal"     
+        ]
+        },{
+        "tag":"banks near Pranahita Wildlife Sanctuary",
+        "patterns":[
+            "where are the banks located near Pranahita Wildlife Sanctuary",
+            "banks near Pranahita Wildlife Sanctuary"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Mancherial town"        
+        ]
+        },{
+        "tag":"banks near Shivaram Wildlife Sanctuary",
+        "patterns":[
+            "where are the banks located near Shivaram Wildlife Sanctuary",
+            "banks near Shivaram Wildlife Sanctuary"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Manthani"     
+        ]
+        },{
+        "tag":"banks near Kaddam Project",
+        "patterns":[
+            "where are the banks located near Kaddam Project",
+            "banks near Kaddam Project"
+        ],
+        "responses":[
+            "Kannapur,<br/>Kadem"     
+        ]
+        },{
+        "tag":"banks near Gayatri WaterFalls",
+        "patterns":[
+            "where are the banks located Gayatri WaterFalls",
+            "banks near Gayatri WaterFalls"
+        ],
+        "responses":[
+            "Sirichelma X Roads,<br/>Neredigonda"     
+        ]
+        },{
+        "tag":"banks near Gaandhari Khilla",
+        "patterns":[
+            "where are the banks located Gaandhari Khilla",
+            "banks near GayatriGaandhari Khilla"
+        ],
+        "responses":[
+            "Mahalaxmiwada,<br/>Bokkalagutta"     
+        ]
+        },{
+        "tag":"banks near Kanakai Waterfalls",
+        "patterns":[
+            "where are the banks located Kanakai Waterfalls",
+            "banks near Kanakai Waterfalls"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Bazarhatnoor Mandal"     
+        ]
+        },{
+        "tag":"banks near Mitte Waterfalls",
+        "patterns":[
+            "where are the banks located Mitte Waterfalls",
+            "banks near Mitte Waterfalls"
+        ],
+        "responses":[
+            "Mancherial,<br/>Pittaguda"     
+        ]
+        },{
+        "tag":"banks near Sri Gnana Saraswathi Devasthanam",
+        "patterns":[
+            "where are the banks located Sri Gnana Saraswathi Devasthanam",
+            "banks near Sri Gnana Saraswathi Devasthanam"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Basara"     
+        ]
+        },{
+        "tag":"banks near Jainath Temple",
+        "patterns":[
+            "where are the banks located Jainath Temple",
+            "banks near Jainath Temple"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex" 
+        ] },{
+        "tag":"banks near Basar Saraswathi Temple",
+        "patterns":[
+            "where are the banks located Basar Saraswathi Temple",
+            "banks near Basar Saraswathi Temple"
+        ],
+        "responses":[
+            "Shivaji Chowk,<br/>Basara"     
+        ] },{
+        "tag":"banks near Kadam Dam",
+        "patterns":[
+            "where are the banks Kadam Dam",
+            "banks near Kadam Dam"
+        ],
+        "responses":[
+            "Kannapur,<br/>Pandwapur"     
+        ] 
+        },{
+        "tag":"banks near Gudem Satyanarayana Temple",
+        "patterns":[
+            "where are the banks located Gudem Satyanarayana Temple",
+            "banks near Gudem Satyanarayana Temple"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Dandepally"     
+        ]
+        },{
+        "tag":"banks near Pedda Gundam Waterfall",
+        "patterns":[
+            "where are the banks located Pedda Gundam Waterfall",
+            "banks near Pedda Gundam Waterfall"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex,<br/>Kokasmannur"        
+        ]
+        },{
+        "tag":"banks near Sri Ram Sagar Project",
+        "patterns":[
+            "where are the banks located Sri Ram Sagar Project",
+            "banks near Sri Ram Sagar Project"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex"     
+        ]
+        },{
+        "tag":"banks near Sri Komaram Bheem Project",
+        "patterns":[
+            "where are the banks located Sri Komaram Bheem Project",
+            "banks near Sri Komaram Bheem Project"
+        ],
+        "responses":[
+            "Asifabad"     
+        ]
+        },{
+        "tag":"banks near Vyasa Maharshi Cave",
+        "patterns":[
+            "where are the banks located MVyasa Maharshi Cave",
+            "banks near Vyasa Maharshi Cave"
+        ],
+        "responses":[
+            "Dhanalaksmi Lodge Complex"    
+        ]
+        },{
+        "tag":"banks near Nirmal Fort",
+        "patterns":[
+            "where are the banks located Nirmal Fort",
+            "banks near Nirmal Fort"
+        ],
+        "responses":[
+            "Shivaji Chowk,<br/>Satpura Hills"     
+        ]
+        },{
+        "tag":"banks near Thousand Pillar Temple",
+        "patterns":[
+            "where are the banks located Thousand Pillar Temple",
+            "banks near Thousand Pillar Temple"
+        ],
+        "responses":[
+            "Waddepalli,<br/>Hanamakonda"     
+        ]
+        },{
+        "tag":"banks near Warangal Fort",
+        "patterns":[
+            "where are the banks located Warangal Fort",
+            "banks near Warangal Fort"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Mathwada"     
+        ] },{
+        "tag":"banks near Bhadra Kali Temple",
+        "patterns":[
+            "where are the banks located Bhadra Kali Temple",
+            "banks near Bhadra Kali Temple"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Hanamakonda"     
+        ] },{
+        "tag":"banks near Ramappa Temple",
+        "patterns":[
+            "where are the banks located Ramappa Temple",
+            "banks near Ramappa Temple"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Palampet village"     
+        ] },{
+        "tag":"banks near Kolanupaka temple",
+        "patterns":[
+            "where are the banks located Kolanupaka temple",
+            "banks near Kolanupaka temple"
+        ],
+        "responses":[
+            "Bodari Basti"     
+        ] },{
+        "tag":"banks near Siddeswara Temple",
+        "patterns":[
+            "where are the banks located Siddeswara Temple",
+            "banks near Siddeswara Temple"
+        ],
+        "responses":[
+            "Shiva Nagar,<br/>Meerpet"     
+        ] },{
+        "tag":"banks near Sri Veeranarayana Temple",
+        "patterns":[
+            "where are the banks located Sri Veeranarayana Temple",
+            "banks near Sri Veeranarayana Temple"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road"     
+        ]
+        },{
+        "tag":"banks near Mallikarjuna Swamy Temple",
+        "patterns":[
+            "where are the banks located Mallikarjuna Swamy Temple",
+            "banks near Mallikarjuna Swamy Temple"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Inavolu"     
+        ]
+        },{
+        "tag":"banks near Ramappa Lake",
+        "patterns":[
+            "where are the banks located Ramappa Lake",
+            "banks near Ramappa Lake"
+        ],
+        "responses":[
+            "Bank street"     
+        ] },{
+        "tag":"banks near Laknam Cheruvu",
+        "patterns":[
+            "where are the banks located Laknam Cheruvu",
+            "banks near Laknam Cheruvu"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Laknavaram"     
+        ] },{
+        "tag":"banks near Padmakshi Temple",
+        "patterns":[
+            "where are the banks located Padmakshi Temple",
+            "banks near Padmakshi Temple"
+        ],
+        "responses":[
+            "Ashoka Complex,<br/>Meerpet"     
+        ] },{
+        "tag":"banks near Kakatiya Musical Garden",
+        "patterns":[
+            "where are the banks located Mallikarjuna Kakatiya Musical Garden",
+            "banks near Kakatiya Musical Garden"
+        ],
+        "responses":[
+            "Municipal Office,<br/>Tadkamalla Village"     
+        ] },{
+        "tag":"banks near Kakatiya Zoological Park",
+        "patterns":[
+            "where are the banks located Kakatiya Zoological Park",
+            "banks near Kakatiya Zoological Park"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Hanamkonda"     
+        ] },{
+        "tag":"banks near Kush Mahal",
+        "patterns":[
+            "where are the banks located Kush Mahal",
+            "banks near Kush Mahal"
+        ],
+        "responses":[
+            "Jayaprakash Narayan Road,<br/>Mathwada"     
+        ] },{
+        "tag":"banks near Ekashila Lake",
+        "patterns":[
+            "where are the banks located Ekashila Lake",
+            "banks near Ekashila Lake"
+        ],
+        "responses":[
+            "Rangashaipet Khammam Road,<br/Mathwada"     
+        ] },{
+        "tag":"banks near Sri Kotilingeshwara Swamy Temple",
+        "patterns":[
+            "where are the banks located Sri Kotilingeshwara Swamy Temple",
+            "banks near Sri Kotilingeshwara Swamy Temple"
+        ],
+        "responses":[
+            "Siddipet"     
+        ] },{
+        "tag":"banks near Sarabheswara Swamy Temple",
+        "patterns":[
+            "where are the banks located Sarabheswara Swamy Temple",
+            "banks near Sarabheswara Swamy Temple"
+        ],
+        "responses":[
+            "Bonthapalle"     
+        ] },{
+        "tag":"banks near Jama Masjid",
+        "patterns":[
+            "where are the banks located Jama Masjid",
+            "banks near Jama Masjid"
+        ],
+        "responses":[
+            "Parupalliveedhi"     
+        ] },{
+        "tag":"banks near Lal Kaman",
+        "patterns":[
+            "where are the banks located Lal Kaman",
+            "banks near Lal Kaman"
+        ],
+        "responses":[
+            "Kaman Rd"     
+        ] },{
+        "tag":"banks near Narsimha Swami Temple",
+        "patterns":[
+            "where are the banks located Narsimha Swami Temple",
+            "banks near Narsimha Swami Temple"
+        ],
+        "responses":[
+            "Jubleepura,<br/>Stambadri Gutta"     
+        ] },{
+        "tag":"banks near Khammam Fort",
+        "patterns":[
+            "where are the banks located Khammam Fort",
+            "banks near Khammam Fort"
+        ],
+        "responses":[
+            "Wyra Road,<br/>Nizampet"     
+        ] },{
+        "tag":"banks near Palair Reservoir",
+        "patterns":[
+            "where are the banks located Palair Reservoir",
+            "banks near Palair Reservoir"
+        ],
+        "responses":[
+            "Kusumanchi,<br/>Paleru"     
+        ] },{
+        "tag":"banks near Kaman Bazaar",
+        "patterns":[
+            "where are the banks located Kaman Bazaar",
+            "banks near Kaman Bazaar"
+        ],
+        "responses":[
+            "Pullakhunda Towers,<br/>Braman Bazar"     
+        ] },{
+        "tag":"banks near Jammalapuram Temple",
+        "patterns":[
+            "where are the banks located Jammalapuram Temple",
+            "banks near Jammalapuram Temple"
+        ],
+        "responses":[
+            "Wyra Road,<br/>Jamalapuram"     
+        ] },{
+        "tag":"banks near Gandhi Chowk",
+        "patterns":[
+            "where are the banks located Gandhi Chowk",
+            "banks near Gandhi Chowk"
+        ],
+        "responses":[
+            "Madhi Babu Complex,<br/>Moti Nagar"     
+        ] },{
+        "tag":"banks near Kinnerasani Wildlife Sanctuary",
+        "patterns":[
+            "where are the banks located Kinnerasani Wildlife Sanctuary",
+            "banks near Kinnerasani Wildlife Sanctuary"
+        ],
+        "responses":[
+            "Wyra Road,<br/>Bhadradri Kothagudem"     
+        ] },{
+        "tag":"banks near Lakaram Lake",
+        "patterns":[
+            "where are the banks located Lakaram Lake",
+            "banks near Lakaram Lake"
+        ],
+        "responses":[
+            "Wyra Road,<br/>Kaviraj Nagar"     
+        ] },{
+        "tag":"banks near NTPC Ramagundam",
+        "patterns":[
+            "where are the banks located NTPC Ramagundam",
+            "banks near NTPC Ramagundam"
+        ],
+        "responses":[
+            "Jyothi Nagar,<br/>Ramagundam"     
+        ] },{
+        "tag":"banks near Buddhist Stupa",
+        "patterns":[
+            "where are the banks located Buddhist Stupa",
+            "banks near Buddhist Stupa"
+        ],
+        "responses":[
+            "Bhoomnagar,<br/>Ramagundam"     
+        ]
+        },{
+        "tag":"banks near Ramagir Fort",
+        "patterns":[
+            "where are the banks located Ramagir Fort",
+            "banks near Ramagir Fort"
+        ],
+        "responses":[
+            "Centenary Colony,<br/>Kamanpur mandal"     
+        ]
+        },{
+        "tag":"banks near Siva Trikuta Temple",
+        "patterns":[
+            "where are the banks located Siva Trikuta Temple",
+            "banks near Siva Trikuta Temple"
+        ],
+        "responses":[
+            "Bhoomnagar,<br/>Godavarikhani"     
+        ]
+        },{
+        "tag":"banks near Sri Vasavi Andal Ranganatha Swamy Temple",
+        "patterns":[
+            "where are the banks located Sri Vasavi Andal Ranganatha Swamy Temple",
+            "banks near Sri Vasavi Andal Ranganatha Swamy Temple"
+        ],
+        "responses":[
+            "Bhoomnagar,<br/>Dharmabad"     
+        ]
+        },{
+        "tag":"banks near Andalamma Old Temple",
+        "patterns":[
+            "where are the banks located Andalamma Old Temple",
+            "banks near Andalamma Old Temple"
+        ],
+        "responses":[
+            "Bhoomnagar,<br/>Dharmabad"      
+        ]
+        },{
+        "tag":"banks near Nizamabad Fort",
+        "patterns":[
+            "where are the banks located Nizamabad Fort",
+            "banks near Nizamabad Fort"
+        ],
+        "responses":[
+            "Godown Road,<br/>Mujahed Nagar"     
+        ]
+        },{
+        "tag":"banks near Kanteshwar Temple",
+        "patterns":[
+            "where are the banks located Kanteshwar Temple",
+            "banks near Kanteshwar Temple"
+        ],
+        "responses":[
+            "Kanteshwar"     
+        ]
+        },{
+        "tag":"banks near Nizamabad-Mallaram forest",
+        "patterns":[
+            "where are the banks located Nizamabad-Mallaram forest",
+            "banks near Nizamabad-Mallaram forest"
+        ],
+        "responses":[
+            "Varni Road,<br/>Mallaram cheruvu"     
+        ]
+        },{
+        "tag":"banks near Sarangapoor Hanuman temple",
+        "patterns":[
+            "where are the banks located Sarangapoor Hanuman temple",
+            "banks near Sarangapoor Hanuman temple"
+        ],
+        "responses":[
+            "Godown Road,<br/>Bodhan Road"     
+        ]
+        },{
+        "tag":"banks near Ali Sagar lake",
+        "patterns":[
+            "where are the banks located Ali Sagar lake",
+            "banks near Ali Sagar lake"
+        ],
+        "responses":[
+            "Thanakalyan Yedpally Mandal,<br/>Jankampet village"     
+        ]},{
+        "tag":"banks near Nizam Sagar dam",
+        "patterns":[
+            "where are the banks located Nizam Sagar dam",
+            "banks near Nizam Sagar dam"
+        ],
+        "responses":[
+            "Nizam Sagar,<br/>Kamareddy"     
+        ]
+        },{
+        "tag":"banks near Kondagattu Anjaneya Swamy temple",
+        "patterns":[
+            "where are the banks located Kondagattu Anjaneya Swamy temple",
+            "banks nearKondagattu Anjaneya Swamy temple"
+        ],
+        "responses":[
+            "Maruthi Complex,<br/>Jagitial"     
+        ]
+        },{
+        "tag":"banks near Lower Maniar dam",
+        "patterns":[
+            "where are the banks located Lower Maniar dam",
+            "banks near Lower Maniar dam"
+        ],
+        "responses":[
+            "Maruthi Complex,<br/>Alugunur village"    
+        ]
+        },{
+        "tag":"banks near Nagunur forts and temples",
+        "patterns":[
+            "where are the banks located Nagunur forts and temples",
+            "banks near Nagunur forts and temples"
+        ],
+        "responses":[
+            "Maruthi Complex,<br/>Padmashaali nagar"     
+        ]
+        },{
+        "tag":"banks near Elgandal fort",
+        "patterns":[
+            "where are the banks located Elgandal fort",
+            "banks near Elgandal fort"
+        ],
+        "responses":[
+            "Maruthi Complex,<br/>Vemulawada"      
+        ]
+        },{
+        "tag":"banks near Pillalamarri temple",
+        "patterns":[
+            "where are the banks located Pillalamarri temple",
+            "banks near Pillalamarri temple"
+        ],
+        "responses":[
+            "Shivaji Nagar,<br/>Pillalamarri"     
+        ]
+        },{
+        "tag":"banks near Ethipothala falls",
+        "patterns":[
+            "where are the banks located Ethipothala falls",
+            "banks near Ethipothala falls"
+        ],
+        "responses":[
+            "Mancherla,<br/>zaheerabad"     
+        ]
+        },{
+        "tag":"banks near Rachakonda Fort",
+        "patterns":[
+            "where are the banks located Rachakonda Fort",
+            "banks near Rachakonda Fort"
+        ],
+        "responses":[
+            "Bowenpally,<br/>Yadadri Bhongir"     
+        ]
+        },{
+        "tag":"banks near Chaya Someswara temple",
+        "patterns":[
+            "where are the banks located Chaya Someswara temple",
+            "banks near Chaya Someswara temple"
+        ],
+        "responses":[
+            "Shivaji Nagar,<br/>Panagal"     
+        ]
+        },{
+        "tag":"banks near Bhongir Fort",
+        "patterns":[
+            "where are the banks located Bhongir Fort",
+            "banks near Bhongir Fort"
+        ],
+        "responses":[
+            "Bhongir,<br/>Bhuvanagiri"     
+        ]
+        },{
+        "tag":"banks near Pachala Someshwara Temple",
+        "patterns":[
+            "where are the banks located Pachala Someshwara Temple",
+            "banks near Pachala Someshwara Temple"
+        ],
+        "responses":[
+            "Shivaji Nagar,<br/>Panagal"     
+        ]
+        },{
+        "tag":"banks near Qila fort Jagityal",
+        "patterns":[
+            "where are the banks located Qila fort Jagityal",
+            "banks near Qila fort Jagityal"
+        ],
+        "responses":[
+            "Srinivasa Talkies,<br/>Puranipet"     
+        ]
+        },{
+        "tag":"banks near Sri Raja Rajeswara Swamy Devasthanam",
+        "patterns":[
+            "where are the banks located Sri Raja Rajeswara Swamy Devasthanam",
+            "banks near Sri Raja Rajeswara Swamy Devasthanam"
+        ],
+        "responses":[
+            "Srinivasa Talkies,<br/>Vemulawada"     
+        ]
+        },{
+        "tag":"banks near sonia gandhi temple mallial",
+        "patterns":[
+            "where are the banks located sonia gandhi temple mallial",
+            "banks near sonia gandhi temple mallial"
+        ],
+        "responses":[
+            "Srinivasa Talkies,<br/>Mallial"     
+        ]
+        },{
+        "tag":"place suggestion based on season",
+        "patterns":[
+            "can you suggest a place to visit in summer season",
+            "what places can we visit in summer season",
+            "places to visit in summer season",
+            "which places are good to visit in summer season"
+        ],
+        "responses":[
+            "Hussain Sagar Lake,<br/>Jala Vihar,<br/>Lumbini Park,<br/>Nehru Zoo Park,<br/>Snow world,<br/>Mount Opera,<br/>Botanical Gardens,<br/>Mallacheruvu,<br/>Jurala Dam,<br/>Kuntala Waterfalls,<br>Gayatri WaterFalls,<br>Kanakai Waterfalls,<br/>Mitte Waterfalls,<br/>Pedda Gundam Waterfall,<br/>Ramappa Lake,<br/>Ekashila Lake & Children Garden,<br/>Lakaram Lake,<br/>Ali Sagar lake,<br/>Nizam Sagar dam,<br/>Lower Maniar dam,<br/>Ethipothala falls"     
+        ]
+    }
+    
+    ]
+    } 
