@@ -120,7 +120,6 @@
           ],
           "responses": [
           "Golconda Fort,<br/> Charminar,<br/> Mecca Masjid,<br/> Qutb Shahi Tombs,<br/> Hussain Sagar Lake,<br/> Ramoji Film City,<br/> Salar Jung Museum,<br/> Chowmahalla Palace,<br/> Paigah Tombs,<br/> Birla Mandir,<br/> Jala Vihar,<br/> Lumbini Park,<br/> Nehru Zoo Park,<br/> Snow world,<br/> NTR Gardens,<br/> Shilparamam,<br/> Chilkur Balaji Temple,<br/> Mount Opera,<br/> Sanghi Temple,<br/> Botanical Gardens,<br/> Birla Planetarium,<br/> Laad Bazaar,<br/> Rachakonda Fort"
-            
           ]
       },
       {
@@ -130,7 +129,7 @@
              "warangal"," Orugallu","wgl","wrngl"
           ],
           "responses": [
-             "Thousand Pillar Temple,<br/> Warangal Fort,<br/> Bhadra Kali Temple,<br/> Ramappa Temple,<br/> Jain Temple, <br/> Kolanupaka Siddeswara Temple,<br/> Sri Veeranarayana Temple,<br/> Mallikarjuna Swamy Temple,<br/>Inavolu Ramappa Lake,<br/>Laknam Cheruvu ,<br/>Padmakshi Temple,<br/> Anjaneya Swamy Temple,<br/> Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park, <br/>Kush Mahal, <br/>Ekashila Lake & Children Garden"
+             "Thousand Pillar Temple,<br/> Warangal Fort,<br/> Bhadra Kali Temple,<br/> Ramappa Temple,<br/> Jain Temple,<br/> Sri Veeranarayana Temple,<br/> Mallikarjuna Swamy Temple,<br/>Ramappa Lake,<br/>Laknam Cheruvu ,<br/>Padmakshi Temple,<br/> Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park, <br/>Kush Mahal, <br/>Ekashila Lake & Children Garden"
           ]
       },
     
@@ -141,7 +140,7 @@
            "Adilabad","adilabad","adb"
         ],
         "responses": [
-            "Kawal Wildlife Sanctuary,<br/> Kuntala Waterfalls,<br/> Pochera Waterfalls,<br/> Pranahita Wildlife Sanctuary,<br/> Shivaram Wildlife Sanctuary,<br/>Kaddam Project,<br/> Gayatri WaterFalls,<br/> Gaandhari Khilla,<br/> Kanakai Waterfalls,<br/> Mitte Waterfalls,<br/>Sri Gnana Saraswathi Devasthanam,<br/> Jainath Temple,<br/> Basar Saraswathi Temple,<br/> Kadam Dam,<br/> Gudem Satyanarayana Temple,<br/> Pedda Gundam Waterfall,<br/> Sri Ram Sagar Project,<br/> Sri Komaram Bheem Project,<br/> Vyasa Maharshi,<br/> Cave Nirmal Fort"
+            "Kawal Wildlife Sanctuary,<br/> Kuntala Waterfalls,<br/> Pochera Waterfalls,<br/> Pranahita Wildlife Sanctuary,<br/> Shivaram Wildlife Sanctuary,<br/>Kaddam Project,<br/> Gayatri WaterFalls,<br/> Gaandhari Khilla,<br/> Kanakai Waterfalls,<br/> Mitte Waterfalls,<br/>Sri Gnana Saraswathi Devasthanam(Basar Saraswathi Temple),<br/> Jainath Temple,<br/> Gudem Satyanarayana Temple,<br/> Pedda Gundam Waterfall,<br/> Sri Komaram Bheem Project,<br/> Vyasa Maharshi Cave,<br/> Nirmal Fort"
         ]
     
     },
@@ -152,7 +151,7 @@
            "karimnagar","karamnagaram","karremnagar","kareemnagar","kmngr"
         ],
         "responses": [
-           "Kondagattu Anjaneya Swamy temple ,<br/>Lower Maniar dam,<br/> Nagunur forts and temples,<br/> Venkateswara swamy temple,<br/> Elgandal fort,<br/> Raja Rajeshwara Swamy temple"
+           "Kondagattu Anjaneya Swamy temple,<br/> Nagunur forts and temples,<br/> Elgandal fort,<br/> Raja Rajeshwara temple"
         ]
     },
     {
@@ -162,7 +161,7 @@
           "khammam","kammam","Khammam"
         ],
         "responses": [
-         "Narsimha Swami Temple,<br/> Khammam Fort,<br/> Palair Reservoir ,<br/>Kaman Bazaar,<br/> Jammalapuram Temple Gandhi,<br/> Chowk Kinnerasani Wildlife Sanctuary ,<br/>Lakaram Lake"
+         "Narsimha Swami Temple,<br/> Khammam Fort,<br/> Palair Reservoir,<br/>Kinnerasani Wildlife Sanctuary ,<br/>Lakaram Lake"
         ]
     },
     {
@@ -304,8 +303,7 @@
             "places to visit with kids for entertainment in  nallagonda"
         ],
         "responses":[
-            "Ethipothala falls"
-                   
+            "Ethipothala falls"            
         ]
     },
     {
@@ -1298,7 +1296,711 @@
         "responses":[
             "Hussain Sagar Lake,<br/>Jala Vihar,<br/>Lumbini Park,<br/>Nehru Zoo Park,<br/>Snow world,<br/>Mount Opera,<br/>Botanical Gardens,<br/>Mallacheruvu,<br/>Jurala Dam,<br/>Kuntala Waterfalls,<br>Gayatri WaterFalls,<br>Kanakai Waterfalls,<br/>Mitte Waterfalls,<br/>Pedda Gundam Waterfall,<br/>Ramappa Lake,<br/>Ekashila Lake & Children Garden,<br/>Lakaram Lake,<br/>Ali Sagar lake,<br/>Nizam Sagar dam,<br/>Lower Maniar dam,<br/>Ethipothala falls"     
         ]
+    },
+    {
+        "tag": "golconda",
+        "patterns": [
+            "golconda",
+            "about golconda",
+            "tell me about golconda"
+        ],
+        "responses": [
+            "Golconda Fort is located in the western part of Hyderabad city.Golconda Fort (initially called Golla Konda, which means Shepherds’ Hill) is a castle and early capital of the Qutb Shahi Dynasty in the western part of Hyderabad, Telangana. The Golconda includes four forts in an 11-kilometre area with eight gateways. Golconda is famous for diamond mines and produced some famous diamonds like Koh-i-Noor, Blue Hope, Daria-e-Noor, etc<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Forte_di_golconda%2C_vedute_da_est_06.jpg/1200px-Forte_di_golconda%2C_vedute_da_est_06.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Golconda_Fort'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Mecca Masjid",
+        "patterns": [
+            "Mecca Masjid",
+            "about Mecca Masjid",
+            "tell me about Mecca Masjid"
+        ],
+        "responses": [
+            "Mecca Masjid is a congregational mosque in Hyderabad, India. It is one of the largest mosques in India with a capacity of 10,000 people.The mosque was built during the 17th century, and is a state-protected monument. It serves as the primary mosque for the Old City of Hyderabad and is located close to the historic landmarks of Charminar, Chowmahalla Palace and Laad Bazaar<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mecca_Masjid_Hyderabad.JPG/330px-Mecca_Masjid_Hyderabad.JPG' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Makkah_Masjid,_Hyderabad'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Qutb Shahi Tombs",
+        "patterns": [
+            "Qutb Shahi Tombs",
+            "about Qutb Shahi Tombs",
+            "tell me about Qutb Shahi Tombs"
+        ],
+        "responses": [
+            "The Qutub Shahi Tombs are located in the Ibrahim Bagh, close to the famous Golconda Fort in Hyderabad, India. They contain the tombs and mosques built by the various kings of the Qutub Shahi dynasty.The galleries of the smaller tombs are of a single storey while the larger ones are two storied<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Qutb_Shahi_Tomb_5.jpg/330px-Qutb_Shahi_Tomb_5.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Qutb_Shahi_tombs'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Hussain Sagar Lake",
+        "patterns": [
+            "Hussain Sagar Lake",
+            "about Hussain Sagar Lake",
+            "tell me about Hussain Sagar Lake"
+        ],
+        "responses": [
+            "Hussain Sagar Lake is Situated just 2km away from the heart of the city, Hussain Sagar is one of the most popular tourist places in Hyderabad. The lake connects two parts of the city (Secunderabad and Hyderabad) to each other. The largest artificial lake in Asia, Hussain Sagar lake was excavated in 1562 AD during the reign of Ibrahim Quli Qutub Shah. Built on the tributary of River Musi, the lake has been named after Hussain Shah Wali<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Buddha_statue_11102016.jpg/405px-Buddha_statue_11102016.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Hussain_Sagar'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Ramoji Film City",
+        "patterns": [
+            "Ramoji Film City",
+            "about Ramoji Film City",
+            "tell me about Ramoji Film City"
+        ],
+        "responses": [
+            "Ramoji Film City is an integrated film studio complex located in Hyderabad, India. Spread over 1,666 acres. it is the largest film studio complex in the world and as such has been certified by the Guinness World Records.It was built by Telugu media tycoon Ramoji Rao in 1996.The Guardian described Ramoji Film City as 'city within a city'<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramoji_Film_City.jpg/330px-Ramoji_Film_City.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Ramoji_Film_City#:~:text=Ramoji%20Film%20City%20is%20an,tycoon%20Ramoji%20Rao%20in%201996.'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Salar Jung Museum",
+        "patterns": [
+            "Salar Jung Museum",
+            "about Salar Jung Museum",
+            "tell me about Salar Jung Museum"
+        ],
+        "responses": [
+            "The Salar Jung Museum is an art museum located at Dar-ul-Shifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the notable National Museums of India.Originally a private art collection of the Salar Jung family, it was endowed to the nation after the death of Salar Jung III. It was inaugurated on 16 December 1951.It has a collection of sculptures, paintings, carvings, textiles, manuscripts, ceramics, metallic artifacts, carpets, clocks, and furniture from Japan, China, Burma, Nepal, India, Persia, Egypt, Europe, and North America. It is one of the largest museums in the world<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg/375px-Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Salar_Jung_Museum'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Chowmahalla Palace",
+        "patterns": [
+            "Chowmahalla Palace",
+            "about Chowmahalla Palace",
+            "tell me about Chowmahalla Palace"
+        ],
+        "responses": [
+            "Chowmahalla Palace or Chowmahallat is the palace of the Nizams of Hyderabad State in Hyderabad, Telangana, India.It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state. The palace was built by Nizam Salabat Jung and remains the property of the Nizam. Some members of the Hyderabadi Nizam family have wed here<br/<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chowmahalla_Palace_01.jpg/375px-Chowmahalla_Palace_01.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Chowmahalla_Palace'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Paigah Tombs",
+        "patterns": [
+            "Paigah Tombs",
+            "about Paigah Tombs",
+            "tell me about Paigah Tombs"
+        ],
+        "responses": [
+            "Paigah Tombs or Maqhbara Shams al-Umara, are the tombs belonging to the nobility of Paigah family, who were fierce loyalists of the Nizams, served as statespeople, philanthropists and generals under and alongside them. The Paigah tombs are among the major wonders of Hyderabad State which known for their architectural excellence<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Paigah_Tombs.jpg/375px-Paigah_Tombs.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Paigah_Tombs'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Birla Mandir",
+        "patterns": [
+            "Birla Mandir",
+            "about Birla Mandir",
+            "tell me about Birla Mandir"
+        ],
+        "responses": [
+            "Birla Mandir is a Hindu temple, built on a 280 feet (85 m) high hillock called Naubath Pahad on a 13 acres (53,000 m2) plot in   Hyderabad, Telangana, India. The construction took 10 years and was opened in 1976 by Swami Ranganathananda of Ramakrishna Mission. The temple was constructed by Birla Foundation<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/A_white_Marble_stone_Birla_Mandir_Hyderabad_Telangana.jpg/375px-A_white_Marble_stone_Birla_Mandir_Hyderabad_Telangana.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Birla_Mandir,_Hyderabad'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Jala Vihar",
+        "patterns": [
+            "Jala Vihar",
+            "about Jala Vihar",
+            "tell me about Jala Vihar"
+        ],
+        "responses": [
+            "Jalavihar is a popular amusement park, Jalavihar Hyderabad is situated on the Necklace Road which is in the heart of twin cities-Hyderabad and Secunderabad. It is quite close to the IMAX multiplex and Sanjeevaiah Park which is also on the Necklace Road. It is a family entertainment park with various interesting options for both adults and children<br/><img src='https://hyderabadboss.com/wp-content/uploads/2016/11/jalavihar.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Jalavihar'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Lumbini Park",
+        "patterns": [
+            "Lumbini Park",
+            "about Lumbini Park",
+            "tell me about Lumbini Park"
+        ],
+        "responses": [
+            "Lumbini Park, officially T. Anjaiah Lumbini Park is a small public, urban park of 3 hectares (7.5 acres) adjacent to Hussain Sagar in Hyderabad, India. Since it is located in the centre of the city and is in close proximity to other tourist attractions, such as Birla Mandir and Necklace Road, it attracts many visitors throughout the year. Boating is one of the best part and people go to the Buddha idol placed in the middle of the tank band in the boats<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lumbini_Park%2C_Hyderabad.jpg/375px-Lumbini_Park%2C_Hyderabad.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Lumbini_Park'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Nehru Zoo Park",
+        "patterns": [
+            "Nehru Zoo Park",
+            "about Nehru Zoo Park",
+            "tell me about Nehru Zoo Park"
+        ],
+        "responses": [
+            "Nehru Zoo Park is Located at a distance of 16 km from Hyderabad, Nehru Zoological Park was opened to the public in the year of 1963. It is situated near the historically important Mir Alam Tank, which is 200 year old and is the first multi-arch masonry dam in the world. Nehru Zoological Park is one of the largest zoos of India and one of the top sightseeing places to visit in Hyderabad. Run by the Forest department, Government of Telangana, the zoo has been named after Jawaharlal Nehru, the first prime minister of the country<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Hyderabad_zoo.jpg/330px-Hyderabad_zoo.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Nehru_Zoological_Park'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Snow world",
+        "patterns": [
+            "Snow world",
+            "about Snow world",
+            "tell me about Snow world"
+        ],
+        "responses": [
+            "Snow world is Developed and conceptualized by Ocean Park Multi Tech Limited (OPML), Snow World has been recognized as the first snow-themed park of the country. OPML has also developed the Ocean Park Theme Resort of Hyderabad. Spread across an area of 17,000 square feet, Snow World is apparently the biggest snow themed park in the world. Situated at the Lower Tank Bund Road, behind the Indira Park, Snow World is one of the interesting tourist spots of Hyderabad. It is quite close to Hussain Sagar Lake as well<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Snowworldhyderabad.png/330px-Snowworldhyderabad.png' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Snow_World'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "ntr gardens",
+        "patterns": [
+            "ntr gardens",
+            "about ntr gardens",
+            "tell me about ntr gardens"
+        ],
+        "responses": [
+            "NTR Gardens is a small public, urban park of 36 acres adjacent to Hussain Sagar lake in Hyderabad, India. It is named after the former Chief minister of Andhra Pradesh, N. T. Rama Rao. Constructed in several phases since 1999, the area that is predominantly a park is geographically located in the centre of the city, and is close to other tourist attractions such as Birla Mandir, Necklace Road and Lumbini Park. It is maintained by the Buddha Purnima Project Authority that functions under the directives of the Government of Telangana<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/NTR_Memorial.jpg/375px-NTR_Memorial.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/NTR_Gardens'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Shilparamam",
+        "patterns": [
+            "Shilparamam",
+            "about Shilparamam",
+            "tell me about Shilparamam"
+        ],
+        "responses": [
+            "Shilparamam is an arts and crafts village located in Madhapur, Hyderabad, Telangana, India.The village was conceived with an idea to create an environment for the preservation of traditional crafts. There are ethnic festivals round the year.Shilparamam, a crafts village, conceived in the year 1992, is situated just about few kilometers from Hyderabad city. Sprawling over 65 acres of land in the hi-tech hub city of India, Shilparamam gives a scenic ambience of tradition and cultural heritage. For promotion and preservation of Indian arts and crafts and to motivate the artisans, the state government established this platform<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Entrance_of_Shilparamam%2C_Jubileehills.jpg/375px-Entrance_of_Shilparamam%2C_Jubileehills.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Shilparamam'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Chilkur Balaji Temple",
+        "patterns": [
+            "Chilkur Balaji Temple",
+            "about Chilkur Balaji Temple",
+            "tell me about Chilkur Balaji Temple"
+        ],
+        "responses": [
+            "Chilkur Balaji Temple, popularly known as Visa Balaji Temple, is an ancient Hindu temple of Lord Balaji on the banks of Osman Sagar in Rangareddy District. It is one of the oldest temples in Hyderabad Dist earlier, now in Rangareddy Dist. built during the time of Madanna and Akkanna, the uncles of Bhakta Ramadas<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gopuram_at_Chilkur_Temple1.jpg/375px-Gopuram_at_Chilkur_Temple1.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Chilkoor_Balaji_Temple'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Mount Opera",
+        "patterns": [
+            "Mount Opera",
+            "about Mount Opera",
+            "tell me about Mount Opera"
+        ],
+        "responses": [
+            "MOUNT OPERA is Hyderabad’s Biggest Amusement Park and Resort, all in one fabulous location.It is located at a distance of approximately 38 kms from the main city, Mount Opera Theme park is one of the popular tourist places of Hyderabad offering loads of entertainment and fun to each and everyone.It is situated on the Hyderabad-Vijayawada National Highway, the Mount Opera theme park is just 4 kms away from the popular Ramoji Film City<br/><img src='https://images.thrillophilia.com/image/upload/s--3-Ze3TLD--/c_fill,h_775,q_auto,w_1600/f_auto,fl_strip_profile/v1/images/photos/000/271/055/original/1590486979_mountopera.jpg.jpg?1590486979' height=200px width=193px/><br/><a href='https://rangareddy.telangana.gov.in/tourist-place/mount-opera/'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Sanghi Temple",
+        "patterns": [
+            "Sanghi Temple",
+            "about Sanghi Temple",
+            "tell me about Sanghi Temple"
+        ],
+        "responses": [
+            "Sanghi Temple, located at Sanghi Nagar in Telangana in India, is about 35 km from Hyderabad city.The sacred Raja Gopuram, which is very tall, can be seen from several kilometers away.The temple is located on the top of Paramanand Giri hill, which attracts a number of devotees.The temple is managed by Mrs Anita Sanghi of the Sanghi Family<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sanghi_Temple%2C_Hyderabad.jpg/330px-Sanghi_Temple%2C_Hyderabad.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Sanghi_Temple'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Botanical Gardens",
+        "patterns": [
+            "Botanical Gardens",
+            "about Botanical Gardens",
+            "tell me about Botanical Gardens"
+        ],
+        "responses": [
+            "A botanical garden or botanic garden is a garden dedicated to the collection, cultivation, preservation and display of an especially wide range of plants, which are typically labelled with their botanical names. It may contain specialist plant collections such as cacti and other succulent plants, herb gardens, plants from particular parts of the world, and so on; there may be greenhouses, shadehouses, again with special collections such as tropical plants, alpine plants, or other exotic plants. Most are at least partly open to the public, and may offer guided tours, educational displays, art exhibitions, book rooms, open-air theatrical and musical performances, and other entertainment<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Orto_botanico_di_Pisa_-_general_view.JPG/300px-Orto_botanico_di_Pisa_-_general_view.JPG' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Botanical_garden'>click here for more information</a>" 
+        ]
+    },
+    {
+        "tag": "Birla Planetarium",
+        "patterns": [
+            "Birla Planetarium",
+            "about Birla Planetarium",
+            "tell me about Birla Planetarium"
+        ],
+        "responses": [
+            "Birla Planetarium or B. M. Birla Science Museum is an Indian science museum located in Hyderabad, India. Constructed by civil engineer P. A. Singaravelu, it comprises a planetarium, museum, science centre, art gallery as well as a dinosaurium.The museum itself was the second phase of the science centre when it opened in 1990.The centre also houses India's first private Space Museum. The museum is a unique facility which is dedicated to history of the space program of India.The space museum was inaugurated in July 2019 and was curated by Pranav Sharma<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Birla_Science_Museum_Hyd.jpg/330px-Birla_Science_Museum_Hyd.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Birla_Science_Museum#Planetarium'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Charminar",
+        "patterns": [
+            "Charminar",
+            "about Charminar",
+            "tell me about Charminar"
+        ],
+        "responses": [
+            " The Charminar is a Mosque constructed in 1591, is a monument located in Hyderabad, Telangana, India. The landmark has become known globally as a symbol of Hyderabad and is listed among the most recognised structures in India.<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Charminar-Pride_of_Hyderabad.jpg/330px-Charminar-Pride_of_Hyderabad.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Charminar'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Laad Bazaar",
+        "patterns": [
+            "Laad Bazaar",
+            "about Laad Bazaar",
+            "tell me about Laad Bazaar"
+        ],
+        "responses": [
+            "Laad Bazaar or Choodi Bazaar is a market located in Hyderabad, India. It is located on one of the four main roads that branch out from the Charminar.Laad meaning lacquer, is used to make bangles, on which artificial diamonds are studded. In this 1-kilometre long shopping strip, most of the shops sell bangles, saris, wedding related items, and imitation jewellery<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Laad_Bazaar.jpg/300px-Laad_Bazaar.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Laad_Bazaar'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Rachakonda Fort",
+        "patterns": [
+            "Rachakonda Fort",
+            "about Rachakonda Fort",
+            "tell me about Rachakonda Fort"
+        ],
+        "responses": [
+            "Rachakonda Fort is a historic fort located in Rachakonda, Yadadri Bhongir district of Telangana, India.It was built by the Recherla Nayaka king Anapotanayaka in the 14th century AD. Till that time the Recherla Nayakas had their capital at Anumagallu (present Amangal). At around 1360 AD, the capital was shifted by Anapotanayaka from Anumagallu to Rachakonda where he built a strong fort<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Main_entrance_in_south.JPG/330px-Main_entrance_in_south.JPG' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Rachakonda_Fort'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Thousand Pillar Temple",
+        "patterns": [
+            "Thousand Pillar Temple",
+            "about Thousand Pillar Temple",
+            "tell me about Thousand Pillar Temple"
+        ],
+        "responses": [
+            "The Thousand Pillar Temple or Rudreswara Swamy Temple is a historic Hindu temple located in the town of Hanamakonda, Telangana State, India.It is dedicated to Lord Shiva, Vishnu and Surya. Thousand Pillar Temple, along with Warangal Fort, Kakatiya Kala Thoranam and Ramappa Temple are added to the tentative list of World Heritage sites recognised by UNESCO<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/1000pillar_temple_warangal.jpg/330px-1000pillar_temple_warangal.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Thousand_Pillar_Temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Warangal Fort",
+        "patterns": [
+            "Warangal Fort",
+            "about Warangal Fort",
+            "tell me about Warangal Fort"
+        ],
+        "responses": [
+            "Warangal Fort is located in Warangal District, Telangana, India. It was the capital city of Kakatiya dynasty and Musunuri Nayakas. It appears to have existed since at least the 12th century when it was the capital of the Kakatiyas. The fort has four ornamental gates, known as Kakatiya Kala Thoranam, that originally formed the entrances to a now ruined great Shiva temple<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Shiv_Linga_at_Warangal_Fort_Complex.jpg/375px-Shiv_Linga_at_Warangal_Fort_Complex.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Warangal_Fort'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Bhadra Kali Temple",
+        "patterns": [
+            "Bhadra Kali Temple",
+            "about Bhadra Kali Temple",
+            "tell me about Bhadra Kali Temple"
+        ],
+        "responses": [
+            "Bhadrakali Temple is one of the oldest temples for Goddess Bhadrakali, situated on a hilltop between the two cities of Hanamkonda and Warangal, Telangana,India.<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Bhadrakali_Temple%2C_Warangal.jpg/330px-Bhadrakali_Temple%2C_Warangal.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Bhadrakali_Temple,_Warangal'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Ramappa Temple",
+        "patterns": [
+            "Ramappa Temple",
+            "about Ramappa Temple",
+            "tell me about Ramappa Temple"
+        ],
+        "responses": [
+            "Ramappa Temple, also known as the Rudreshwara temple, is a Kakatiya style Hindu temple dedicated to the god Shiva, located in Telangana, India. It is 15 km from Mulugu, 66 km from Warangal, 209 km from Hyderabad. An inscription in the temple says it was constructed in the year 1213 CE by Recharla Rudra alias Recharla Rudri Reddi- a General of Kakatiya ruler Ganapati Deva 1199–1262. Located in the vicinity of Ramappa Lake, the Ramappa Temple complex which consist of three temples was constructed between 1212 and 1234, designed and architect by Ramappa—after whom the temple complex is named<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ramappa_Temple_%28Human_Scale%29.jpg/330px-Ramappa_Temple_%28Human_Scale%29.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Ramappa_Temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Jain Temple",
+        "patterns": [
+            "Jain Temple",
+            "about Jain Temple",
+            "tell me about Jain Temple"
+        ],
+        "responses": [
+            "A Jain temple or Derasar is the place of worship for Jains, the followers of Jainism.Jain architecture is essentially restricted to temples and monasteries, and Jain buildings generally reflect the prevailing style of the place and time they were built<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Palitana.jpg/330px-Palitana.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Jain_temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Sri Veeranarayana Temple",
+        "patterns": [
+            "Sri Veeranarayana Temple",
+            "about Sri Veeranarayana Temple",
+            "tell me about Sri Veeranarayana Temple"
+        ],
+        "responses": [
+            "At a distance of 82 Kms from Warangal and 82 Kms from Hyderabad, Sri Veeranarayana Temple is an ancient temple built in 403 AD.It is an incarnation of Lord Vishnu. The temple architecture is good and it resembles the Chalukya style of architecture. This is an important Vaishnava temple in Warangal. It is claimed that this was an ancient Jain temple later converted to a Hindu temple<br/><img src='https://www.trawell.in/admin/images/upload/249844452Veeranarayana_Main.jpg' height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/warangal/sri-veeranarayana-temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Mallikarjuna Swamy Temple",
+        "patterns": [
+            "Mallikarjuna Swamy Temple",
+            "about Mallikarjuna Swamy Temple",
+            "tell me about Mallikarjuna Swamy Temple"
+        ],
+        "responses": [
+            "At a distance of 18 Kms from Warangal, Sri Mallikarjuna Swamy Temple located in Inavole (also called as Inole) is considered as one of historical temples of Shiva in this region.The Lord Shiva in this temple is in human form along with his two conserts. The construction of this 11th century temple was ordered by Sri Ayanna, a minister of the Kakatiya dynasty. The main attraction of the temple is the 108 pillars put together in form of a chariot. The rich architectural carvings depicting the Kakatiya dynasty with 4 entrance gates and a Keerthi Toranam on the main entrance attract the devotees. This large temple complex is being maintained by archeological dept<br/><img src='https://www.trawell.in/admin/images/upload/249844890Inavole_Main.jpg' height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/warangal/mallikarjuna-swamy-temple-inavolu'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Ramappa Lake",
+        "patterns": [
+            "Ramappa Lake",
+            "about Ramappa Lake",
+            "tell me about Ramappa Lake"
+        ],
+        "responses": [
+            "Ramappa Lake is a lake situated in Warangal district, Telangana, India. The lake is one of the prominent reservoirs built by Kakatiya rulers.It is situated in Warangal district<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Historic_Ramappa_Lake-6.JPG/396px-Historic_Ramappa_Lake-6.JPG' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Ramappa_Lake'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Laknam Cheruvu",
+        "patterns": [
+            "Laknam Cheruvu",
+            "about Laknam Cheruvu",
+            "tell me about Laknam Cheruvu",
+            "Laknavaram Lake",
+            "about Laknavaram Lake",
+            "tell me about Laknavaram Lake"
+        ],
+        "responses": [
+            "Laknavaram Lake is a lake located in Govindaraopet mandal in Mulugu district. It is located 17 km from Mulugu and 80km from Warangal, Telangana<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/LaknavaramHangingBridge.jpg/396px-LaknavaramHangingBridge.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Laknavaram_Lake'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Padmakshi Temple",
+        "patterns": [
+            "Padmakshi Temple",
+            "about Padmakshi Temple",
+            "tell me about Padmakshi Temple"
+        ],
+        "responses": [
+            "Padmakshi Temple is one of the oldest temples in Hanamakonda and Warangal, Telangana,India, with Goddess Padmakshi (Padmakshamma) as the main deity built by Kakatiya Kings in 12th century<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Padmakshi_Temple.jpeg/330px-Padmakshi_Temple.jpeg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Padmakshi_Temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kakatiya Musical Garden",
+        "patterns": [
+            "Kakatiya Musical Garden",
+            "about Kakatiya Musical Garden",
+            "tell me about Kakatiya Musical Garden"
+        ],
+        "responses": [
+            "Kakatiya Musical Garden is a musical garden located nearby the famous Bhadrakali temple in Warangal, Telangana<br/><img src='https://static.toiimg.com/thumb/msid-59593253,width=1200,height=900/59593253.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kakatiya_Musical_Garden'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kakatiya Zoological Park",
+        "patterns": [
+            "Kakatiya Zoological Park",
+            "about Kakatiya Zoological Park",
+            "tell me about Kakatiya Zoological Park"
+        ],
+        "responses": [
+            "Kakatiya Zoological Park (also known as Warangal Vana Vignana Kendram or Warangal Zoo) is a zoo situated in Hanamkonda, Warangal of Telangana, India<br/><img src='https://lh5.googleusercontent.com/p/AF1QipMmxQdm8yKdSaI3apUnr0fbdlL6wPnVu40kDv4=w296-h202-n-k-no-v1' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kakatiya_Zoological_Park'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kush Mahal",
+        "patterns": [
+            "Kush Mahal",
+            "about Kush Mahal",
+            "tell me about Kush Mahal"
+        ],
+        "responses": [
+            "Khush Mahal, another popular place to visit in Warangal, presents city’s ancient grandeur. It has been built within the walls of Warangal fort, presenting an opportunity for tourists to club both the sightseeing place in one visit. Khush Mahal, withstanding the havoc of time, presents an impressive architecture<br/><img src='https://warangaltourism.in/images/places-to-visit-warangal/headers/khush-mahal-warangal-tourism-entry-fee-timings-holidays-reviews-header.jpg'height=200px width=193px/><br/><a href='https://warangaltourism.in/khush-mahal-warangal'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Ekashila Lake & Children Garden",
+        "patterns": [
+            "Ekashila Lake & Children Garden",
+            "about Ekashila Lake & Children Garden",
+            "tell me about Ekashila Lake & Children Garden"
+        ],
+        "responses": [
+            "Ekshila Lake and Children Gardens Warangal hosts zillions of visitors every single day and is a navigable lake in which you can try out boating as well as swimming. Besides the lake, you will find a park, which happens to be an ideal location for kids to have fun and rejoice<br/><img src='https://res.cloudinary.com/thrillophilia/image/upload/c_fill,f_auto,fl_progressive.strip_profile,g_auto,h_600,q_auto,w_auto/v1/filestore/ywvq3tmoozojilw6detqkbuj8iu6_1581414350_bogatha-waterfalls.jpg' height=200px width=193px/><br/><a href='https://www.thrillophilia.com/attractions/ekashila-lake-children-garden'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kawal Wildlife Sanctuary",
+        "patterns": [
+            "Kawal Wildlife Sanctuary",
+            "about Kawal Wildlife Sanctuary",
+            "tell me about Kawal Wildlife Sanctuary"
+        ],
+        "responses": [
+            "Kawal Wildlife Sanctuary is located at Jannaram mandal of Mancherial District (Old Adilabad district) in Telangana state of India.Govt of India declared Kawal wildlife sanctuary as Tiger Reserve in 2012.The reserve is the oldest sanctuary in the northern Telangana region of the state. It is well known for its abundant flora and fauna. This sanctuary is catchment for the rivers Godavari and Kadam, which flow towards the south of the sanctuary<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kawal_tiger_reserve.jpg/330px-Kawal_tiger_reserve.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kawal_Wildlife_Sanctuary'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kuntala Waterfalls",
+        "patterns": [
+            "Kuntala Waterfalls",
+            "about Kuntala Waterfalls",
+            "tell me about Kuntala Waterfalls"
+        ],
+        "responses": [
+            "Kuntala Waterfall is a waterfall in the Indian state of Telangana, located on Kadam river in Neradigonda mandal of Adilabad district.It is the highest waterfall in the state with a height of 50 meters<br/><img src='https://upload.wikimedia.org/wikipedia/commons/a/aa/Kuntala-waterfalls1.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kuntala_Waterfall'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Pochera Waterfalls",
+        "patterns": [
+            "Pochera Waterfalls",
+            "about Pochera Waterfalls",
+            "tell me about Pochera Waterfalls"
+        ],
+        "responses": [
+            "Pochera Waterfalls are located at a distance of 37 km from Nirmal, 47 km from Adilabad and 7 km from Boath in India<br/><img src='https://media-cdn.tripadvisor.com/media/photo-c/1024x250/11/4f/dd/4b/number-of-falls-vary.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Pochera_Falls'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Pranahita Wildlife Sanctuary",
+        "patterns": [
+            "Pranahita Wildlife Sanctuary",
+            "about Pranahita Wildlife Sanctuary",
+            "tell me about Pranahita Wildlife Sanctuary"
+        ],
+        "responses": [
+            "Pranahita wildlife sanctuary is a protected area located in Mancherial district (Old Adilabad District) of Telangana State, India.This sanctuary is on the bank of Pranahita River, 35 km away from Mancherial town. It is famous for Blackbuck and over 20 species of reptiles, over 50 species of birds, over 40 species of mammals<br/><img src='https://alchetron.com/cdn/pranahita-wildlife-sanctuary-a7cd8a09-0a9b-4cac-a8f7-b3878424d14-resize-750.jpeg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Pranahita_Wildlife_Sanctuary'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Shivaram Wildlife Sanctuary",
+        "patterns": [
+            "Shivaram Wildlife Sanctuary",
+            "about Shivaram Wildlife Sanctuary",
+            "tell me about Shivaram Wildlife Sanctuary"
+        ],
+        "responses": [
+            "Shivaram Wildlife Sanctuary is a wildlife preserve in India located in Mancherial district of Telangana and is located 10 km from Manthani, 40 km from Peddapalli, 80 km from Karimnagar and 30 km from Godavarikhani. This riverine forest mixed with teak and terminalia is spread over 36.29 square kilometres and is home to marsh crocodiles from the river Godavari. It also harbours Indian leopards, sloth bears, nilgai, blackbucks, chitals, pythons, and langurs. The undulating natural terrain adds to the beauty of the sanctuary.<br/><img src='https://wiki.meramaal.com/wp-content/uploads/2018/03/hh.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Shivaram_Wildlife_Sanctuary'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kaddam Project",
+        "patterns": [
+            "Kaddam Project",
+            "about Kaddam Project",
+            "tell me about Kaddam Project"
+        ],
+        "responses": [
+            "The Kaddam Project is a reservoir on the river Kadem, a tributary river of Godavari near Kademm Mandal, Nirmal District, Telangana. This project covers localised ayacut under Nirmal and Mancherial Districts<br/><img src='https://2.bp.blogspot.com/-lMINrBruoJA/WC0KtjmNIVI/AAAAAAAACMQ/Rv1z3qpAuqsBVIYNezuL3vKEAGdZRk3ygCLcB/s1600/kadam_dam.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kaddam_Project'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Gayatri WaterFalls",
+        "patterns": [
+            "Gayatri WaterFalls",
+            "about Gayatri WaterFalls",
+            "tell me about Gayatri WaterFalls"
+        ],
+        "responses": [
+            "Gayatri Waterfalls is one of the many waterfalls around Adilabad, along with Kuntala Waterfall and Pochera Falls. Away from the human eye, the waterfalls found its habitat in a remote place inside a deep tropical forest. It is approximately 5 km from Tarnam Khurd, near Neredigonda of Adilabad district<br/><img src='https://www.holidify.com/images/cmsuploads/square/KunthalaWaterfalls_20200405131304_20200405133408.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Gayatri_Waterfalls'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Gaandhari Khilla",
+        "patterns": [
+            "Gaandhari Khilla",
+            "about Gaandhari Khilla",
+            "tell me about Gaandhari Khilla"
+        ],
+        "responses": [
+            "Gandhari Khilla is a hill fort located near Bokkalagutta, in Mandamarri Mandal in Mancherial district in the south Indian state of Telangana.It is located on the sand rock hills. It is 270 kilometres north east of the state capital, Hyderabad. The fort was built within a thickly forested area which has a wealth of plant species which includes many medicinal herbs. The fort has not been fully excavated and is still partially covered by forest<br/><img src='https://3.bp.blogspot.com/-uY-OM_VbPrU/WJ-PswQpDmI/AAAAAAAACqg/9gi1nn-b15ooMsEKjMHba1nobxdOLZs4gCLcB/s1600/Gandhari_Maisamma_Jatara.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Gandhari_khilla'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kanakai Waterfalls",
+        "patterns": [
+            "Kanakai Waterfalls",
+            "about Kanakai Waterfalls",
+            "tell me about Kanakai Waterfalls"
+        ],
+        "responses": [
+            "The Kanakai waterfall is located in Adilabad district of Telangana. The exact location is near a small village called Girnoor of the Bazarhatnoor Mandal. The falls is also called as Kanakadurga waterfalls. People from nearby villages come to this place to offer their prayers to Goddess Kanaka Durga, in the temple<br/><img src='https://3.bp.blogspot.com/-wyVhTCYI8L0/WFazT3Mo-iI/AAAAAAAACY0/i5w-Vmpfsps9PJCtBkAFFdAVHRMN94r1ACLcB/s1600/kankai_waterfalls.jpg' height=200px width=193px/><br/><a href='https://www.telanganatourism.gov.in/partials/destinations/nature-discovery/adilabad/kanakai-waterfalls.html'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Mitte Waterfalls",
+        "patterns": [
+            "Mitte Waterfalls",
+            "about Mitte Waterfalls",
+            "tell me about Mitte Waterfalls"
+        ],
+        "responses": [
+            "The Mitte waterfall is located near Pittaguda village in Lingapur mandal.The Mitte waterfall is in its full glory in the current season. The heavy rains have led to a thickly cascading waterfall that sprays a mist in the entire area as it drops from its great height<br/><img src='https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-dj1g70sua3uco70i4j6reab1s1-20190818022611.Medi.jpeg' height=200px width=193px/><br/><a href='https://www.tribevibeadventures.com/adilabad-mittewaterfall'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Sri Gnana Saraswathi Devasthanam(Basar Saraswathi Temple)",
+        "patterns": [
+            "Sri Gnana Saraswathi Devasthanam",
+            "about Sri Gnana Saraswathi Devasthanam",
+            "tell me about Sri Gnana Saraswathi Devasthanam",
+            "Basar Saraswathi Temple",
+            "about Basar Saraswathi Temple",
+            "tell me about Basar Saraswathi Temple"
+        ],
+        "responses": [
+            "Gnana Saraswati Temple(Basar Saraswathi Temple) is a Hindu temple of Goddess Saraswati located on the banks of Godavari River at Basar, Telangana, India. It is one of the two famous Saraswati temples in the Indian subcontinent, the other being Sharada Peeth. Saraswati is the Hindu Goddess of knowledge and learning. Children are brought to the temple for the learning ceremony called as Akshara abyasam<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Basar_Temple_view_02.jpg/330px-Basar_Temple_view_02.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Gnana_Saraswati_Temple,_Basar'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Jainath Temple",
+        "patterns": [
+            "Jainath Temple",
+            "about Jainath Temple",
+            "tell me about Jainath Temple"
+        ],
+        "responses": [
+            "Jainath Temple is located in Jainath, a small rural hamlet situated 30 kilometers from the district headquarters of Adilabad. The temple has a prakrit stone inscription depicting the 20 slokas which establishes that it was constructed by the Pallava chief<br/><img src='https://www.trawell.in/admin/images/upload/334529984Adilabad_Jainath_Main.jpg' height=200px width=193px/><br/><a href='https://telanganatourism.gov.in/partials/destinations/divine-destinations/adilabad/jainath-temple.html'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Gudem Satyanarayana Temple",
+        "patterns": [
+            "Gudem Satyanarayana Temple",
+            "about Gudem Satyanarayana Temple",
+            "tell me about Gudem Satyanarayana Temple"
+        ],
+        "responses": [
+            "Gudem Satyanarayana Swamy Temple is one in the list of Adilabad Temples. Lord Satyanarayana Swamy, the Lord of Truth enshrined in this temple. The temple is located in a village named Gudem which is 40 Km far from the city of Mancherial of Adilabad district<br/><img src='https://wiki.meramaal.com/wp-content/uploads/2018/04/gudem-temple.jpg' height=200px width=193px/><br/><a href='https://wiki.meramaal.com/2018/04/03/gudem-satyanarayana-swamy-temple/'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Pedda/Savatula Gundam Waterfall",
+        "patterns": [
+            "Pedda Gundam Waterfall",
+            "about Pedda Gundam Waterfall",
+            "tell me about Pedda Gundam Waterfall",
+            "Savatula Gundam Waterfall",
+            "about Savatula Gundam Waterfall",
+            "tell me about Savatula Gundam Waterfall"
+        ],
+        "responses": [
+            "Pedda Gundam Waterfalls(Savatula Gundam Waterfalls) is one of many waterfalls located in Komaram Bheem district in the Indian state of Telangana. It is located 30 kilometres (19 mi) from Komaram Bheem and 350 kilometres (220 mi) from Hyderabad<br/><img src='https://i.ytimg.com/vi/jNk8MOcJhZM/maxresdefault.jpg' height=200px width=193px/><br/><a href='https://mytrip.guide/savatula-gundam-waterfalls/'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Sri Komaram Bheem Project",
+        "patterns": [
+            "Sri Komaram Bheem Project",
+            "about Sri Komaram Bheem Project",
+            "tell me about Sri Komaram Bheem Project"
+        ],
+        "responses": [
+            "Sri Komaram Bheem Project is a Medium Reservoir has been built across Peddavagu River, a tributary of the Pranahita River. It is located at Ada village, Asifabad Mandal, Komaram Bheem district, Telangana<br/><img src='https://lh3.googleusercontent.com/p/AF1QipNryXbj7FT0S1sIPL3e3sn8yuGpaU8uyIWNZ_Zp=s1600-w400' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Sri_Komaram_Bheem_Project'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Vyasa Maharshi Cave",
+        "patterns": [
+            "Vyasa Maharshi Cave",
+            "about Vyasa Maharshi Cave",
+            "tell me about Vyasa Maharshi Cave"
+        ],
+        "responses": [
+            "Vyasa Maharshi Cave is Located next to Gnana Saraswati Temple.It is a sacred site cum tourist attraction in Basar, Telangana. This cave is dedicated to the author of the great Indian epic Mahabharata, Sage Vyasa. It is said that this cave was chosen by him for meditation. He was accompanied by his disciple, Sage Suka. An idol of Vyasa Muni has been established inside the cave that has turned it into a sacred site<br/><img src='https://dynamic.tourtravelworld.com/hotspot-images/vyasa-maharshi-cave-adilabad-4980.jpg' height=200px width=193px/><br/><a href='https://www.tourtravelworld.com/india/adilabad/vyasa-maharshi-cave.htm'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Nirmal fort",
+        "patterns": [
+            "Nirmal fort",
+            "about Nirmal fort",
+            "tell me about Nirmal fort"
+        ],
+        "responses": [
+            "Nirmal fort is located close to Nirmal town in Adilabad district of Telangana. It is accessible by road from Hyderabad, nearly 195 km away.It has multiple entrances, with one of the main entrances being on the western side diagonally opposite the police station next to the Devarakonda temple<br/><img src='https://cms.tstdc.in/fetch?payload=249e5b11-eeb4-47ff-86c3-457d12eac5a4.jpg' height=200px width=193px/><br/><a href='https://www.outlookindia.com/traveller/ot-getaway-guides/nirmal_the_city_of_forts/'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kondagattu Anjaneya Swamy temple",
+        "patterns": [
+            "Kondagattu Anjaneya Swamy temple",
+            "about Kondagattu Anjaneya Swamy temple",
+            "tell me about Kondagattu Anjaneya Swamy temple"
+        ],
+        "responses": [
+            "Kondagattu Anjaneya Swamy Temple is a temple dedicated to Lord Anjaneya Swamy. It is one of the famous temples, located in Muthyumpeta village of Mallial mandal, Jagitial district, Telangana,India. It is located about 15 km from Jagtial, 35 km from Karimnagar<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Kondagattu_temple_near_Karimnagar%2C_India.jpg/330px-Kondagattu_temple_near_Karimnagar%2C_India.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kondagattu_Anjaneya_Swamy_Temple'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Nagunur forts and temples",
+        "patterns": [
+            "Nagunur forts and temples",
+            "about Nagunur forts and temples",
+            "tell me about Nagunur forts and temples"
+        ],
+        "responses": [
+            "Nagunur Fort is situated in Nagunur Village in Karimnagar district of Telangana. This is an important historical site in Karimnagar district.The Nagunur fort was constructed in the period of Kakatiya dynasty. This fort was one of the important forts in Kakatiyas kingdom. The Fort contains ruins of many temples. The origin and style of these temples can be traced back to the era of the Kalyani Chalukyas and Kakatiyas. However, it is strongly believed to have been built during 12th and 13th centuries under the patronage of the Kakatiyas. At one point of time this place was believed to house around 400 temples.<br/><img src='https://www.trawell.in/admin/images/upload/475084302Karimnagar_Nagunur_Fort.jpg' height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/karimnagar/nagunur-fort-and-temples'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Elgandal fort",
+        "patterns": [
+            "Elgandal fort",
+            "about Elgandal fort",
+            "tell me about Elgandal fort"
+        ],
+        "responses": [
+            "Elgandal Fort is situated amidst palm groves on the banks of the Manair River (a tributary of the Godavari River), approximately 10 kilometres from Karimnagar on the Sircilla Road in the Indian state of Telangana. It was once under the control of the Qutub Shahi dynasty, the Mughal Empire, and the Nizams of Hyderabad<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Elgandal_Fort.jpg/375px-Elgandal_Fort.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Elgandal_Fort'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Sri Raja Rajeswara Temple",
+        "patterns": [
+            "Sri Raja Rajeswara Temple",
+            "about Sri Raja Rajeswara Temple",
+            "tell me about Sri Raja Rajeswara Temple"
+        ],
+        "responses": [
+            "Sri Raja Rajeswara Temple is one of the most famous Hindu temples in Telangana, India, dedicated to Lord Shiva. It is located in the town of Vemulawada, Telangana, India.Historically the region was the capital of the Vemulawada Chalukyas who ruled from 750 to 973 CE<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sri_Rajarajeshwara_Temple_in_Akkannapet.jpg/330px-Sri_Rajarajeshwara_Temple_in_Akkannapet.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Raja_Rajeswara_Temple,_Vemulawada'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Narsimha Swami Temple",
+        "patterns": [
+            "Narsimha Swami Temple",
+            "about Narsimha Swami Temple",
+            "tell me about Narsimha Swami Temple"
+        ],
+        "responses": [
+            "The Narsimha Swami or Narsimhadri temple, situated on a hill called Stambhadri, is said to have existed since 1.6 million years<br/><img src='https://www.holidify.com/images/cmsuploads/compressed/NarsimhaSwamiTemple_20200531223427_20200531224716.jpg' height=200px width=193px/><br/><a href='https://www.holidify.com/places/khammam/narsimha-swami-temple-sightseeing-4981.html'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Khammam Fort",
+        "patterns": [
+            "Khammam Fort",
+            "about Khammam Fort",
+            "tell me about Khammam Fort"
+        ],
+        "responses": [
+            "Khammam Fort is a fort in the city of Khammam, Telangana, India constructed by Musunuri Nayaks. It served as an impregnable citadel during various regimes of different dynasties, including the Musunuri Nayaks, Qutb Shahi’s and Asaf Jahis. The fort was situated in a very vast area in the heart of the City of Khammam<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Steps_to_reach_the_Hill_Fort.jpg/220px-Steps_to_reach_the_Hill_Fort.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Khammam_Fort'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Palair Reservoir",
+        "patterns": [
+            "Palair Reservoir",
+            "about Palair Reservoir",
+            "tell me about Palair Reservoir",
+            "Palair Lake",
+            "about Palair Lake",
+            "tell me about Palair Lake"
+        ],
+        "responses": [
+            "Palair Lake also known as Paler (Palair) Reservoir is a man made lake and a major source of freshwater in the Khammam district of Telangana, India<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Palair_reservoir_01.jpg/2560px-Palair_reservoir_01.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Palair_Lake'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Kinnerasani Wildlife Sanctuary",
+        "patterns": [
+            "Kinnerasani Wildlife Sanctuary",
+            "about Kinnerasani Wildlife Sanctuary",
+            "tell me about Kinnerasani Wildlife Sanctuary"
+        ],
+        "responses": [
+            "Kinnerasani Wildlife Sanctuary is a forest located in Bhadradri Kothagudem district, Telangana state of India. The wildlife sanctuary is spread over an area of 635.40 km2 (157,010 acres) with the picturesque Kinnerasani Lake with densely forested islands in the middle of the sanctuary<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/View_from_a_dam_in_Kinnarsani_WS%2C_AP_W_IMG_5776.jpg/426px-View_from_a_dam_in_Kinnarsani_WS%2C_AP_W_IMG_5776.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kinnerasani_Wildlife_Sanctuary'>click here for more information</a>"
+        ]
+    },
+    {
+        "tag": "Lakaram Lake",
+        "patterns": [
+            "Lakaram Lake",
+            "about Lakaram Lake",
+            "tell me about Lakaram Lake"
+        ],
+        "responses": [
+            "Lakaram lake is a lake in the city of Khammam.It is one of the main tourist attractions of the city. It has been developed recently under the auspices of Khammam MLA Sri Puvvada Ajay Kumar by the State government of Telangana under Mission Kakatiya<br/><img src='https://1.bp.blogspot.com/-53NTimakIFg/WN_KmWPwp4I/AAAAAAAACtM/5I8brZsdvso_huEb4mQwf4bOcPAfZIFqQCLcB/s1600/Lakaram-Lake-Khammam.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Lakaram_lake'>click here for more information</a>"
+        ]
     }
-    
     ]
-    } 
+} 
