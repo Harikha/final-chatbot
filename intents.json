@@ -171,7 +171,7 @@
          "Mahabubnagar","mahaboobnagar","mehabubnagar","mbngr"
         ],
         "responses": [
-            "Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort ,<br/>Lalitha Someswara Swamy Temple ,<br/>Kollapur ,<br/>Alampur ,<br/>Pangal Fort ,<br/>Chandraghad Fort ,<br/>Ghanpur Fort,<br/> Pillalamarri,<br/> Wanaparthy Palace"
+            "Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort ,<br/>Lalitha Someswara Swamy Temple ,<br/>Kollapur ,<br/>Alampur ,<br/>Pangal Fort ,<br/>Chandraghad Fort ,<br/>Ghanpur Fort,<br/>Wanaparthy Palace"
         ]
     },
     {
@@ -181,7 +181,7 @@
             "nallagonda","nallagondla","ngl","nalgonda"
         ],
         "responses":[
-            "Pillalamarri temple,<br/> Ethipothala falls,<br/> Chaya Someswara temple ,<br/>Pachala Someshwara Temple"
+            "Ethipothala falls,<br/> Chaya Someswara temple ,<br/>Pachala Someshwara Temple"
         ]
     },
     {
@@ -191,7 +191,7 @@
            "nizamabad","nizambad","nzmbd","nijambad","nijamabad"
         ],
         "responses":[
-           " Nizamabad Fort,<br/> Kanteshwar Temple,<br/> Nizamabad-Mallaram forest ,<br/>Sarangapoor Hanuman temple,<br/> Ali Sagar lake,<br/> Nizam Sagar dam"
+           "Nizamabad Fort,<br/> Kanteshwar Temple,<br/> Nizamabad-Mallaram forest,<br/> Ali Sagar lake,<br/> Nizam Sagar dam"
         ]
     },
     {
@@ -201,7 +201,7 @@
           "peddapally","peddapalli","pedpali","peddepalli"
         ],
         "responses":[
-           "NTPC Ramagundam,<br/> Buddhist Stupa,<br/> Ramagir Fort ,<br/>Siva Temple ,<br/>Siva Trikuta Temple ,<br/>Sri Vasavi Andal Ranganatha Swamy Temple,<br/> Andalamma Old Temple"
+           "NTPC Ramagundam,<br/> Buddhist Stupa,<br/> Ramagir Fort,<br/>Andalamma Old Temple"
         ]
     },
     {
@@ -211,7 +211,7 @@
          "siddipetha","medak","Siddipet","sidipet"
         ],
         "responses":[
-          "Sri Kotilingeshwara Swamy Temple,<br/> Sarabheswara Swamy Temple,<br/> Shiva Temple,<br/> Sri Venkateshwara Swamy Temple ,<br/>Jama Masjid Lal Kaman"
+          "Sarabheswara Swamy Temple,<br/>Jama Masjid Lal Kaman"
         ]
     },
     {
@@ -221,7 +221,7 @@
          "suryapeta","suryapet"
         ],
         "responses":[
-            "Sri Undrugonda Narasimhaswamy Temple,<br/> Jan Pahad Dargah,<br/> Phanigiri,<br/> Mallacheruvu"
+            "Sri Undrugonda Narasimhaswamy Temple,<br/> Jan Pahad Dargah,<br/> Phanigiri"
         ]  
     },
     {
@@ -248,7 +248,7 @@
             "suggest places that kids enjoy most"
         ],
         "responses": [
-           "Ramoji Film City ,<br/>Salar Jung Museum,<br/> Chowmahalla Palace,<br/> Birla Mandir,<br/> Jala Vihar,<br/> Lumbini Park,<br/> Nehru Zoo Park ,<br/>Snow world,<br/> NTR Gardens ,<br/>Mount Opera ,<br/>Birla Planetarium,<br/> Pillalamarri,<br/>  Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park,<br/> Ekashila Lake & Children Garden,<br/> Ethipothala falls"
+           "Ramoji Film City ,<br/>Salar Jung Museum,<br/> Chowmahalla Palace,<br/> Birla Mandir,<br/> Jala Vihar,<br/> Lumbini Park,<br/> Nehru Zoo Park ,<br/>Snow world,<br/> NTR Gardens ,<br/>Mount Opera ,<br/>Birla Planetarium,<br/>Kakatiya Musical Garden ,<br/>Kakatiya Zoological Park,<br/> Ekashila Lake & Children Garden,<br/> Ethipothala falls"
         ]
     },
     {
@@ -316,7 +316,7 @@
             "places to visit with kids for entertainment in  mahaboobnagar"
         ],
         "responses":[
-            "Pillalamarri"      
+            "No such places found"
         ]
     },
     {
@@ -547,15 +547,6 @@
             "Tirumalagiri,<br/>Manasa Nagar"     
         ]
         },{
-        "tag":"banks near Mallacheruvu",
-        "patterns":[
-            "where are the banks located near Mallacheruvu",
-            "banks near Mallacheruvur"
-        ],
-        "responses":[
-            "Revuru Road,<br/>Kodad"     
-        ]
-        },{
         "tag":"banks near Jurala Dam",
         "patterns":[
             "where are the banks located near Jurala Dam",
@@ -637,15 +628,6 @@
         ],
         "responses":[
             "Ravinder Nagar,<br/>Khilla Ghanpur"        
-        ]
-        },{
-        "tag":"banks near Pillalamarri",
-        "patterns":[
-            "where are the banks located near Pillalamarri",
-            "banks near Pillalamarri"
-        ],
-        "responses":[
-            "Market Road,<br/>Kristan Pally"     
         ]
         },{
         "tag":"banks near Wanaparthy Palace",
@@ -967,14 +949,6 @@
         "responses":[
             "Rangashaipet Khammam Road,<br/Mathwada"     
         ] },{
-        "tag":"banks near Sri Kotilingeshwara Swamy Temple",
-        "patterns":[
-            "where are the banks located Sri Kotilingeshwara Swamy Temple",
-            "banks near Sri Kotilingeshwara Swamy Temple"
-        ],
-        "responses":[
-            "Siddipet"     
-        ] },{
         "tag":"banks near Sarabheswara Swamy Temple",
         "patterns":[
             "where are the banks located Sarabheswara Swamy Temple",
@@ -1089,24 +1063,6 @@
             "Centenary Colony,<br/>Kamanpur mandal"     
         ]
         },{
-        "tag":"banks near Siva Trikuta Temple",
-        "patterns":[
-            "where are the banks located Siva Trikuta Temple",
-            "banks near Siva Trikuta Temple"
-        ],
-        "responses":[
-            "Bhoomnagar,<br/>Godavarikhani"     
-        ]
-        },{
-        "tag":"banks near Sri Vasavi Andal Ranganatha Swamy Temple",
-        "patterns":[
-            "where are the banks located Sri Vasavi Andal Ranganatha Swamy Temple",
-            "banks near Sri Vasavi Andal Ranganatha Swamy Temple"
-        ],
-        "responses":[
-            "Bhoomnagar,<br/>Dharmabad"     
-        ]
-        },{
         "tag":"banks near Andalamma Old Temple",
         "patterns":[
             "where are the banks located Andalamma Old Temple",
@@ -1141,15 +1097,6 @@
         ],
         "responses":[
             "Varni Road,<br/>Mallaram cheruvu"     
-        ]
-        },{
-        "tag":"banks near Sarangapoor Hanuman temple",
-        "patterns":[
-            "where are the banks located Sarangapoor Hanuman temple",
-            "banks near Sarangapoor Hanuman temple"
-        ],
-        "responses":[
-            "Godown Road,<br/>Bodhan Road"     
         ]
         },{
         "tag":"banks near Ali Sagar lake",
@@ -1294,7 +1241,7 @@
             "which places are good to visit in summer season"
         ],
         "responses":[
-            "Hussain Sagar Lake,<br/>Jala Vihar,<br/>Lumbini Park,<br/>Nehru Zoo Park,<br/>Snow world,<br/>Mount Opera,<br/>Botanical Gardens,<br/>Mallacheruvu,<br/>Jurala Dam,<br/>Kuntala Waterfalls,<br>Gayatri WaterFalls,<br>Kanakai Waterfalls,<br/>Mitte Waterfalls,<br/>Pedda Gundam Waterfall,<br/>Ramappa Lake,<br/>Ekashila Lake & Children Garden,<br/>Lakaram Lake,<br/>Ali Sagar lake,<br/>Nizam Sagar dam,<br/>Lower Maniar dam,<br/>Ethipothala falls"     
+            "Hussain Sagar Lake,<br/>Jala Vihar,<br/>Lumbini Park,<br/>Nehru Zoo Park,<br/>Snow world,<br/>Mount Opera,<br/>Botanical Gardens,<br/>Jurala Dam,<br/>Kuntala Waterfalls,<br>Gayatri WaterFalls,<br>Kanakai Waterfalls,<br/>Mitte Waterfalls,<br/>Pedda Gundam Waterfall,<br/>Ramappa Lake,<br/>Ekashila Lake & Children Garden,<br/>Lakaram Lake,<br/>Ali Sagar lake,<br/>Nizam Sagar dam,<br/>Lower Maniar dam,<br/>Ethipothala falls"     
         ]
     },
     {
@@ -2001,6 +1948,258 @@
         "responses": [
             "Lakaram lake is a lake in the city of Khammam.It is one of the main tourist attractions of the city. It has been developed recently under the auspices of Khammam MLA Sri Puvvada Ajay Kumar by the State government of Telangana under Mission Kakatiya<br/><img src='https://1.bp.blogspot.com/-53NTimakIFg/WN_KmWPwp4I/AAAAAAAACtM/5I8brZsdvso_huEb4mQwf4bOcPAfZIFqQCLcB/s1600/Lakaram-Lake-Khammam.jpg' height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Lakaram_lake'>click here for more information</a>"
         ]
-    }
+    },
+    {
+        "tag":"Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort",
+        "patterns":[
+                "Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort",
+                "tell me about Jurala Dam Koilkonda Fort and Koilsagar Dam Gadwal Fort"
+            ],
+        "responses":[
+                "At a distance of 1.3 km from Koilkonda Bus Stand, 25 km from Mahabubnagar Bus Station and 128 km from Hyderabad, Koilkonda Fort is situated at Koilkonda in Mahabubnagar district of Telangana. This is an ideal weekend getaway from Hyderabad to spend full day.Koilkonda Fort is the erstwhile outpost of the Qutab Shahi dynasty situated on a hilltop. To reach the top, one needs to hike across a deep gorge on the west or a series of streams if coming through east before reaching a plight of steps that leads to the fort. To enter the Koilkonda Fort, seven gates have to be crossed. The first one spots an inscription of Ibrahim Qutab Shah that belongs to 1550 AD. Fourth gate leads to a dilapidated palace. There is also a mosque, an Idgah and a pond here. The Fort also has a ashurkhana dedicated to Bibi Fatima and is revered by both Hindus and Muslims.<br/><img src='https://www.trawell.in/admin/images/upload/475084862Mahabubnagar_Koilkonda_Fort_Main.jpg'height=200px width=193px/><br/><a href='https://www.trawell.in/andhra/mahabubnagar/koilkonda-fort-and-koilsagar-dam'>click here for more inforation</a>"
+        ]
+    },
+    {
+        "tag":"Lalitha Someswara Swamy Temple",
+        "patterns":[
+                "Lalitha Someswara Swamy Temple",
+                "tell me about Lalitha Someswara Swamy Temple"
+            ],
+        "responses":[
+                "Lalitha Someswara Swamy Temple is a highly revered shrine dedicated to Lord Shiva. It is believed to have been built during the 7th century. Somasila is a well-known tourist attraction of Mahabubnagar that consists of 15 temples. These temples are dedicated to Lord Shiva and are enshrined with several Shivalingas. The temple was shifted from old Somasila village to higher altitude to protect it from being submerged in Krishna water during the construction of Srisailam Dam. The surroundings of Somasila are also known for its scenic beatury.<br/><img src='https://www.trawell.in/admin/images/upload/475084350Mahabubnagar_Somasila_Main.jpg'height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/mahabubnagar/lalitha-someswara-swamy-temple-somasila'>click here for more inforation</a>"
     ]
-} 
+    }, 
+    {
+        "tag":"Kollapur",
+        "patterns":[
+                "Kollapur",
+                "tell me about Kollapur"
+            ],
+        "responses":[
+                "Kollapur region is an area spanning the Nallamala Forest area on the banks of the river Krishna in the Nagarkurnool district, in the state of Telangana India. The Someswara, Sangameswara, and Malleswara temples are in this region, with traces of architectural treasures from the 2nd century BC. Hundreds of ancient temples are visible in the area, mainly built over 1,500 years ago. Due to similar broad roads and surrounding tree plantations, people used to refer to Kollapur as Telangana Mysore<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kollapur_palace.JPG/375px-Kollapur_palace.JPG'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Kollapur'>click here for more inforation</a>"
+    ]
+    },      
+    {
+        "tag":"Alampur",
+        "patterns":[
+                "Alampur",
+                "tell me about Alampur"
+            ],
+        "responses":[
+            "Hemalapuram(Alampur) is a town situated in Jogulamba Gadwal district in the Indian state of Telangana. Alampur is a popular Hindu pilgrimage site in Shaktism and is also home to the Navabrahma Temples, a group of nine temples dedicated to Shiva built in the seventh and eighth century CE. It is the meeting point of the rivers Tungabhadra and Krishna and is referred to as Dakshina Kasi and is also considered the western gateway to Srisailam. The sacredness of Alampur is mentioned in the Skanda Purana<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sangameshwar_temple_alampur_Mahboobnagar_India.jpg/375px-Sangameshwar_temple_alampur_Mahboobnagar_India.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Alampur,_Jogulamba_Gadwal_district'>click here for more inforation</a>"
+    ]
+    },  
+    {
+        "tag":"Pangal Fort",
+        "patterns":[
+                "Pangal Fort",
+                "tell me about Pangal Fort"
+            ],
+        "responses":[
+                "Pangal Fort is one of the Famous Hill Forts in Telangana. It was built by Kalyani Chalukya Kings during 11th and 12th Centuries. The fort is spread across hundreds of acres with Seven Gateways. The Main entrance is called as Mundlagavini and is a special attraction of this fort. It was built with huge granite rocks<br/><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ35nNcTV-6cRZWx2TmTlMUDymgM4mhKFdMBtrWRu1MBg&s'height=200px width=193px/><br/><a href='https://wanaparthy.telangana.gov.in/adventures/#:~:text=Pangal%20Fort%20is%20one%20of,built%20with%20huge%20granite%20rocks.'>click here for more inforation</a>"
+    ]
+    },   
+    {
+        "tag":"Chandraghad Fort",
+        "patterns":[
+                "Chandraghad Fort",
+                "tell me about Chandraghad Fort"
+            ],
+        "responses":[
+                "Chandraghad village is located in Narva mandal of Mahbubnagar district in Telangana, India. It is situated 16km away from sub-district headquarter Narva (tehsildar office) and 70km away from district headquarter Mahbubnagar. As per 2009 stats, Chandragad is the gram panchayat of Chandraghad village<br/><img src='https://www.trawell.in/admin/images/upload/14441816Mahabubnagar_Chandraghad_Fort_Main.jpg'height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/mahabubnagar/chandraghad-fort'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Ghanpur Fort",
+        "patterns":[
+                "Ghanpur Fort",
+                "tell me about Ghanpur Fort"
+            ],
+        "responses":[
+                "Ghanpur has a hill fort and was built by joining two mountains by Gona Ganapa Reddy and Recherla Padma Nayakulu (Singama Nayakudu I) in 13th century. This fort had witnessed many wars between Bahamanis, Vijayanagara Kings, Bijapur Kings and Qutb Shahi Kings, etc. The cannons which still exist have been kept on the top most side of the fort. We can also see palace and ministers houses ruins.The name of Ganapuram Khilla came into existence from the name of Kakatiya Ruler Sri Ganapathi Deva. The village was Naginenipally before it is named after Kakatiya Ruler Ganapathideva by Gona Ganna Reddy. People believe that there are two secret tunnels inside of the fort<br/><img src='https://cdn.telanganatoday.com/wp-content/uploads/2021/09/Khilla.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Khilla_Ghanpur'>click here for more inforation</a>"
+    ]
+    },  
+    {
+        "tag":"Wanaparthy Palace",
+        "patterns":[
+                "Wanaparthy Palace",
+                "tell me about Wanaparthy Palace"
+            ],
+        "responses":[
+                "Wanaparthy Samsthanam traces its history back to the 14th century after the Kakatiya kingdom declined. The successive Turkic Muslim dynasties, who invaded and settled in Deccan, found it ideal for Samsthanam to prevail. It was surrounded by three other Samsthanams.Wanaparthy was one of the 14 major Zamindari segments in Telangana in Post-Independent India.For administrative purposes the Samsthan was divided into two talukas namely 'sugar' and 'Kesampet' under to Tahsildars<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Wanaparthy_palace.JPG/330px-Wanaparthy_palace.JPG'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Wanaparthy_Samsthanam'>click here for more inforation</a>"
+    ]
+    },  
+    {
+        "tag":"Ethipothala falls",
+            "patterns":[
+                "Ethipothala falls",
+                "tell me about Ethipothala falls"
+            ],
+        "responses":[
+            "Ethipothala Falls is a 70 feet high river cascade, situated in Palnadu district,India. Located on the Chandravanka river, which is a tributary of River Krishna joining on its right bank. The waterfall is a combination of three streams namely Chandravanka Vagu, Nakkala Vagu and Tummala Vagu.<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ethipothala_water_falls.JPG/413px-Ethipothala_water_falls.JPG'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Ethipothala_Falls'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Chaya Someswara temple",
+            "patterns":[
+                "Chaya Someswara temple",
+                "tell me about Chaya Someswara temple"
+            ],
+        "responses":[
+                "Chaya Someswara Temple, also known as the Chaya Someshvara Swamy Alayam or the Saila-Somesvara temple, is a Saivite Hindu temple located in Panagal, Nalgonda district of Telangana, India.It was built around the mid 11th-century during the rule of the Kunduru Chodas (a branch of Tamil Cholas), supported and embellished further by later Hindu dynasties of Telangana.Some date it to late 11th to early 12th-century.The temple, now partially restored, was in ruins in mid 20th-century<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/11th_12th_century_Chaya_Someshwara_Temple%2C_Panagal_Telangana_India_-_46.jpg/330px-11th_12th_century_Chaya_Someshwara_Temple%2C_Panagal_Telangana_India_-_46.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Chaya_Someswara_Temple'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Pachala Someshwara Temple",
+            "patterns":[
+                "Pachala Someshwara Temple",
+                "tell me about Pachala Someshwara Temple"
+            ],
+        "responses":[
+                "Pachala Someswara Temple is a Saivite Hindu temple located in Panagal of Nalgonda district, Telangana, India. It is a popular pilgrimage site during Maha Sivaratri. The idol of the deity here is carved out of green onyx which gives the temple its name - Pacha in Telugu means Green. The temple is in close proximity to Chaya Someswara Temple, another Saivite shrine in Panagal<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Pacchala_Someswara_Temple_at_Pangal_01.jpg/330px-Pacchala_Someswara_Temple_at_Pangal_01.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Pachala_Someswara_Temple'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Nizamabad Fort",
+            "patterns":[
+                "Nizamabad Fort",
+                "tell me about Nizamabad Fort"
+            ],
+        "responses":[
+                "Nizamabad Fort, also known as Nizamabad Quilla, is a fort in Nizamabad in the Indian state of Telangana. It was built in 10th century by Rashtrakuta Kings and is situated in the southwest of the city, which is 2 kilometers from Gandhi Chowk.The Jagannath Temple, also known as Qilla Ramalayam or Raghunath Temple, is on top of the fort and is a tourist attraction and religious place for Hindu devotees.The temple has spacious halls which are spread over an area of 3,900 sq. ft, the halls has a unique system of ventilation that keeps it cool always<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fort_Entrance%2CNizamabad.jpeg/420px-Fort_Entrance%2CNizamabad.jpeg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Nizamabad_Fort'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Kanteshwar Temple",
+            "patterns":[
+                "Kanteshwar Temple",
+                "Neela Kanteshwar temple",
+                "tell me about Kanteshwar Temple"
+            ],
+        "responses":[
+                "In the Telangana town of Nizamabad, there is an ancient temple dedicated to the powerful Lord Shiva. It is the Neela Kanteshwar temple. The temple attracts a large number of devotees coming from different corners the state and the district. This famous temple was constructed for the Jains by the Satavahana king, Satakarni-II. The structure has a lot of resemblance with the North Indian Architectural style. The festival of Ratha sapthami is an annual event celebrated on a grand scale with a lot of pomp in this temple. It is revered shrine located on a beautiful hillock<br/><img src='https://www.trawell.in/admin/images/upload/223188667Nizamabad_Neelakanteshwara_Temple_Main.jpg'height=200px width=193px/><br/><a href='https://www.trawell.in/telangana/nizamabad/sri-neelakanteshwara-temple'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Nizamabad-Mallaram forest",
+            "patterns":[
+                "Nizamabad-Mallaram forest",
+                "Mallaram forest",
+                "tell me about Nizamabad-Mallaram forest"
+            ],
+        "responses":[
+                "It is a complete woody and dense forest, home to migratory birds and animals. The pristine surroundings, fresh air and chirping of birds, you may not ask for more! A perfect surrounding that rejuvenates your energies away from the hustle-bustle of urban lifestyle, it is a heritage structure that is conserved with care. According to geologists, the famous mushroom-shaped rock at Mallaram forest dates back 2000 million years ago which also has a rock pedestal that strikingly resembles the upper portion of a mushroom<br/><img src='https://imgmedia.lbb.in/media/2019/06/5d120c7b85bc096eeb4302a0_1561463931864.jpg'height=200px width=193px/><br/><a href='https://tourism.telangana.gov.in/nature-discovery/MallaramForest'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Ali Sagar lake",
+            "patterns":[
+                "Ali Sagar lake",
+                "tell me about Ali Sagar lake"
+            ],
+        "responses":[
+                "At a distance of about 13 km from the Nizamabad town, is the Alisagar Reservoir. This is the most famous picnic spot in the region of Nizamabad and people of all walks of life, especially kids would enjoy the most in this place. The colourful and beautiful garden near the reservoir was actually developed by the Nizam of Hyderabad, who ruled the city back then and now, the local irrigation department of the town is taking care and maintaining this garden<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Alisagar_lake_panorama.jpg/800px-Alisagar_lake_panorama.jpg'height=200px width=193px/><br/><a href='https://tourism.telangana.gov.in/nature-discovery/AlisagarReservoir'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Nizam Sagar dam",
+            "patterns":[
+                "Nizam Sagar dam",
+                "tell me about Nizam Sagar dam"
+            ],
+        "responses":[
+                "Nizam Sagar Dam is an Indian dam named after the Nizam of Hyderabad. It is a reservoir constructed across the Manjira River, a tributary of the Godavari River,[1] between Achampet and BanjePally villages of the Kamareddy district in Telangana, India. It is located at about 144 km north-west of Hyderabad. Nizam Sagar is the oldest dam in the state of Telangana.<br/><img src='https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/bfi_thumb/2020021041-olwbz2d0v8pl8qg1m8xxxmiughrzgngp6d3jwc4cy2.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Nizam_Sagar'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"NTPC Ramagundam",
+            "patterns":[
+                "NTPC Ramagundam",
+                "tell me about NTPC Ramagundam"
+            ],
+        "responses":[
+                "NTPC Ramagundam, a part of National Thermal Power Corporation, is a 2,600 megawatt (MW) Power station situated at Ramagundam in Peddapalli district in Telangana, India. It is the current largest power station in South India. It is the first ISO 14001 certified 'Super Thermal Power Station' in India<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Rstps4.jpg/450px-Rstps4.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/NTPC_Ramagundam/'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Buddhist Stupa",
+            "patterns":[
+                "Buddhist Stupa",
+                "tell me about Buddhist Stupa"
+            ],
+        "responses":[
+                "The Buddhist monastic complex at Vadkapur and Dhulikatta villages located on the right and left banks of Hussaini vagu lies at a distance of 30 krn from Karimnagar. The excavations brought to light a Buddhist Stupa, fortification walls etc. One of labels inscribed in Brahmi over a slab in this Stupa is Palaeographically datable to 2nd century B.C. The Stupa belonged to the Hinayana sect of Buddhism in which the anthropomorphic representation of Buddha was taboo<br/><img src='https://cdn.s3waas.gov.in/s34e732ced3463d06de0ca9a15b6153677/uploads/bfi_thumb/2020060386-oqgs4gcrjnatyrxe1dbsoocbwfv3w1hev3ia06zdsa.jpg'height=200px width=193px/><br/><a href='https://peddapalli.telangana.gov.in/tourist-place/buddhist-stupa-dhulikatta/'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Ramagir Fort",
+            "patterns":[
+                "Ramagir Fort",
+                "tell me about  Ramagir Fort"
+            ],
+        "responses":[
+                "A fort on Ramagiri hillocks is located near Begumpet village in Kamanpur mandal near the PWD road leading to Manthani. This famous fort built in stone with several bastions is spread over a very large area of several kilometers. The Ramagiri hill with its vast area is known for its beautiful natural surroundings with rare species of plants and several kinds of medicinal roots. The fort played an important role from the early times to the period of AsafJahis<br/><img src='https://cdn.s3waas.gov.in/s34e732ced3463d06de0ca9a15b6153677/uploads/bfi_thumb/2020051552-opjzdd8oiaay07ubkg4w86w1nvvs8daoojwy38nw5m.jpg'height=200px width=193px/><br/><a href='https://peddapalli.telangana.gov.in/tourist-place/ramagir-fort/'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":" Andalamma Old Temple",
+            "patterns":[
+                " Andalamma Old Temple",
+                "tell me about Andalamma Old Temple"
+            ],
+        "responses":[
+                "Andalamma old temple is a late medieval period temple is located in Dharmabad village of Peddapalli district. It is located 39 KM towards East from Karimnagar.It seems to be the temple and mandapa was constructed during the Qutub Shahi period when Vaishnavism was spreading in the Telangana region. There are no Idols in the temple. Temple is not at all maintained/worshipped since ages. This temple’s architecture is so unique and beautiful<br/><img src='https://static2.tripoto.com/media/filter/nl/img/90875/TripDocument/1563028508_1563028502331.jpg'height=200px width=193px/><br/><a href='https://www.tripoto.com/karimnagar/trips/amazing-trip-5d29ea426f7d0/'>click here for more inforation</a>"
+    ]
+    },
+    {
+            "tag":"Sarabheswara Swamy Temple",
+            "patterns":[
+                "Sarabheswara Swamy Temple","about Sarabheswara Swamy Temple",
+                "tell me aboutSarabheswara Swamy Temple"
+            ],
+            "responses":[
+                "Sri Sarabeshwara Swamy Temple is Shiva temple located at Siddipet,Andhra Pradesh Significance Devotees visit this temple to seek fulfillment of Salvation, Wealth ,Relief from diseases Purchase of vehicles Gain Knowledge<br/><img src='https://qph.cf2.quoracdn.net/main-qimg-7d534c67650b9ec689ec9fa99c3e09e6-lq'height=200px width=193px/><br/><a href='https://www.ishtadevata.com/temple/sri-sarabeshwara-swamy-temple-siddipet-medak/'>click here for more inforation</a>"
+    ]
+    },
+    {
+        "tag":"Jama Masjid Lal Kaman",
+        "patterns":[
+            "Jama Masjid Lal Kaman",
+            "tell me about Jama Masjid Lal Kaman"
+        ],
+        "responses":[
+            "Jama Masjid (Mosque) is located in Siddipet, Telangana, India. Address of Jama Masjid is Gandhi Rd, Dubbak, Telangana 502108, India. Jama Masjid has quite many listed places around it and we are covering at least 44 places around it<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jama_Mazjid%2C_delhi_by_Shail_kannur_%281%29.jpg/450px-Jama_Mazjid%2C_delhi_by_Shail_kannur_%281%29.jpg'height=200px width=193px/><br/><a href='https://www.helpmecovid.com/in/1502302_jama-masjid/'>click here for more inforation</a>"
+]
+},
+{
+    "tag":"Sri Undrugonda Narasimhaswamy Temple",
+    "patterns":[
+        "Sri Undrugonda Narasimhaswamy Temple","about Sri Undrugonda Narasimhaswamy Temple",
+        "tell me about Sri Undrugonda Narasimhaswamy Temple"
+    ],
+    "responses":[
+        "Undrugonda is situated in Vallabhapuram village of Chivvemla mandal, Nalgonda dist, Telangana state, India. It is located 12 kilometers from the town of suryapet & 3 kilometers from national highway 65. It is an ancient Giridurgam (hill forte) constructed initially by Vishnukundinulu in 5th century A.D and later developed by various dynasties up to now. It is a magnificent archaeological and spiritual pilgrimage center hosting different temples of which Sri Undrugonda Laxmi Narasimha Swamy is best worshiped adored by local public<br/><img src='https://cdn.s3waas.gov.in/s3fa3a3c407f82377f55c19c5d403335c7/uploads/bfi_thumb/2019120391-olwdranzvomylh5ak0g6bf0rsd6xg2ge09y0h0vvre.jpg'height=200px width=193px/><br/><a href='https://suryapet.telangana.gov.in/tourist-place/sri-sri-sri-undrugonda-laxmi-narasimha-swami-devasthanam/'>click here for more inforation</a>"
+]
+},
+{
+    "tag":"Jan Pahad Dargah",
+        "patterns":[
+            "Jan Pahad Dargah","about Jan Pahad Dargah",
+            "tell me about Jan Pahad Dargah"
+        ],
+        "responses":[
+            "Jan Pahad Saidulu Dargah is a dargah situated in Palkaveedu Mandal in Suryapet district in Telangana, India. People from different religious faiths visit the holy shrine on the occasion of the annual Urs festival.The dargah is built on the tomb of saint Mohinuddin alias Shaheed and Jan Pahad Saidulu. Qawwali, Sandal Sharif ceremonial procession and other special rituals mark the Urs festivities.Route : 20 km distance from Nereducharla Mandal Headquarters. And another route from Miryalaguda Via Damaracherla ( Damaracherla is on Addanki - Narketpally State Highway) . Janapahad Dargah is 9 km away from Damaracherla. Autos and buses are available from Neredcharla and Damarcharla<br/><img src='https://content.jdmagicbox.com/comp/nalgonda/r7/9999p8682.8682.190118130832.m6r7/catalogue/janpad-dargah-nalgonda-mn2rhe2ybx.jpg?clr=444422'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Jan_Pahad_Dargah'>click here for more inforation</a>"
+]
+},
+{
+    "tag":"Phanigiri",
+        "patterns":[
+            "Phanigiri","about Phanigiri",
+            "tell me about Phanigiri"
+        ],
+        "responses":[
+            "Phanigiri is a village in Suryapet district, Telangana. It is situated about 40 km from Suryapet city. The place consists of a Buddhist complex which is adorned with a massive stupa along with two apsidal halls with stupas in it.Two large footprints in the complex are believed to belong to Gautama Buddha. The place also houses three viharas which were once served as the dwelling for the Buddhist monks. Previously the name of the village is Dharmachakrapuram but later it is changed to Phanigir<br/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Inscribed_stone_in_Brahmi_script.jpg/330px-Inscribed_stone_in_Brahmi_script.jpg'height=200px width=193px/><br/><a href='https://en.wikipedia.org/wiki/Phanigiri'>click here for more inforation</a>"
+]
+}
+]
+}
